@@ -9,13 +9,12 @@ tags: attribution
 
 More and more often, contemporary research is conducted by a number of young and senior researchers actively collaborating and contributing to a common project, answering an increasingly multidisplinary range of questions. 
 
-To ensure all the people involved in the research process are rightfully acknolwegded, the [Contributor Roles Taxonomy, known as CRediT author statement][1], has been created to be used as reference to correctly capture all contributors roles and efforts dedicated in obtaining a final research output.
-According to the [CRediT author statement][1], each contributors can be acknowledged via a series of pre-defined roles.
+To ensure all the people involved in the research process are rightfully acknolwegded, the [Contributor Roles Taxonomy, known as CRediT author statement][1] was created. The CRediT taxonomy clearlry provides definitions for a wide range of roles to describe the personal contributions that a researcher might bring to a collaborative project. It also aims at providing a definition for what authorship should mean and acknowledge, in the case of scientific research, by broadening the concept to include all intellectual and practical contributors to the final output. 
 
-For each contributors, the following basic personal information should be provided:
+For each contributor, the following basic personal information should be provided:
 - Name and Surname
 - Affiliation
-- [ORCiD](<https://orcid.org/>) code
+- Open Researcher and Contributor ID ([ORCiD](<https://orcid.org/>)) code
 - CRediT role (contribution provided to the research).
 
 
