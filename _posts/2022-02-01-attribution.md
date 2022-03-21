@@ -1,24 +1,25 @@
 ---
 layout: post
 title:  "Attribution"
-date:   2022-02-01 
+date:   2022-02-01
 author: Agnese Beltramo
-category: Open Science
-tags: attribution
+category: practice
+tags: ubuntu retrievability auditability
 ---
 
-
-More and more often, contemporary research is conducted by a number of young and senior researchers actively collaborating and contributing to a common project, answering an increasingly multidisplinary range of questions. 
-
-To ensure all the people involved in the research process are rightfully acknolwegded, the [CRediT author statement][1] was introduced in the scientific publishing process. The CRediT author statement relies on the [Contributor Roles Taxonomy][2] to clearly define a wide range of roles to describe the personal contributions that a researcher might bring to a collaborative project. It also aims at providing a definition for what authorship should mean and acknowledge, in the case of scientific research, by broadening the concept to include all intellectual and practical contributors to the final output. 
+To ensure all the people involved in the collaborative process of  research process are acknowledged,
+the [CRediT author statement][1] was introduced in the scientific publishing process.
+The CRediT author statement relies on the [Contributor Roles Taxonomy][2] to clearly describe the range of personal contributions that a researcher brings to a collaborative project.
+The statement helps define what authorship means in the case of scientific research, by broadening the concept to include all intellectual and practical contributors to the final output.
 
 For each contributor, the following basic personal information should then be provided:
+
 - Name and Surname
 - Affiliation
-- Open Researcher and Contributor ID ([ORCiD][3]]) code
+- [Open Researcher and Contributor ID][3] code
 - CRediT role
 
-[Brand et al. (2015)][2] defined the [CRediT roles][2] as follows:
+[Brand et al. (2015)][2] define the [CRediT roles][2] as follows:
 | Term | Definition|
 | :--: | :-------- |
 | Conceptualization | Ideas; formulation or evolution of overarching research goals and aims|
@@ -30,17 +31,14 @@ For each contributor, the following basic personal information should then be pr
 | Resources | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools |
 | Data Curation | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse|
 | Writing - Original Draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation) |
-| Writing - Review & Editing | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or postpublication stages |
-| Visualization | Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation | 
+| Writing - Review & Editing | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or post-publication stages |
+| Visualization | Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation |
 | Supervision | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team |
 | Project administration | Management and coordination responsibility for the research activity planning and execution |
 | Funding acquisition | Acquisition of the financial support for the project leading to this publication |
 
 # Useful resources
-From [*The Turing Way*](https://the-turing-way.netlify.app/welcome.html) handbook to reproducible, ethical and collaborative data science:
-- Section on [**Authorship and Contributions on Academic Articles**][6], with reflections on the ethical aspects of authorship.
-
-
+[*The Turing Way*](https://the-turing-way.netlify.app/welcome.html) handbook to reproducible, ethical and collaborative data science includes a section on [**Authorship and Contributions on Academic Articles**][6], with reflections on the ethical aspects of authorship.
 
 ------------
 *This material is derived from the [CCG review of good enough practices][4], released under a [CC-BY 4.0 license][5].*
