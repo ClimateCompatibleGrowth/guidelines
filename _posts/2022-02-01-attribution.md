@@ -20,6 +20,7 @@ For each contributor, the following basic personal information should then be pr
 - CRediT role
 
 [Brand et al. (2015)][2] define the [CRediT roles][2] as follows:
+
 | Term | Definition|
 | :--: | :-------- |
 | Conceptualization | Ideas; formulation or evolution of overarching research goals and aims|
