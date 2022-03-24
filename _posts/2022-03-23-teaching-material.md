@@ -9,7 +9,9 @@ tags: teaching kit, teaching material, training, learning, open access
 
 # Teaching material
 
-By teaching material we mean any set of text, presentations, media and exercises developed within the context of higher education courses and training programs. With knowledge development and sharing becoming more prominent in the run towards climate compatible growth globally, institutions worldwide produce ever larger sets of teaching material. If not properly shaped, these will sit within the institution's boundaries, with limited reach outside of the program they are intended for, and will quickly become outdated.  
+By teaching material we mean any collection of text, presentations, media and exercises developed within the context of higher education courses and training programs. The teaching material thus defined is seen as a *living output*, which is constantly updated and reshaped by teachers for the purposes of different courses and trainings, and to adapt to different audiences. An instance (i.e. snapshot) of a set of material used at a certain point in time by one teacher for a specific occasion is a *release*.
+
+With knowledge development and sharing becoming more prominent in the run towards climate compatible growth globally, institutions worldwide produce ever larger sets of teaching material. If not properly shaped, these will sit within the institution's boundaries, with limited reach outside of the program they are intended for, and will quickly become outdated.  
  
 ## Emerging concepts around teaching
 
@@ -69,55 +71,51 @@ Partners in the Climate [Compatible Growth program](https://climatecompatiblegro
 
 ### Licensing
 
-Data must always be associated with a license, to clarify what are the legal restrictions (if any) in using, sharing and/or modifying the data. All licenses that apply to the original data sources should also be considered in selecting the license for the derived dataset released or shared as research output. This is to make sure the derived work complies with any potential legal restriction imposed on the original data sources.
+All teaching material meant to be open access must always be associated with a license, to clarify what are the legal restrictions (if any) in using, sharing and/or modifying the teaching material. All images, graphs, media included in the material must be included with their original license. If new images or graphs are created, they need to be licensed individually. The license that applies to the entire set of material must not be more permissive than the license that applies to any single piece included in it.
 
 For more information, see the [Licensing practice]()
 
 ### Worflow
 
-Workflows help with executing, reusing and reproducing, as well as reporting all steps needed to characterise the processing of data, thus supporting the use of data in the research context.
+Workflows help with executing, reusing and reproducing, as well as reporting all steps needed to create and update teaching material.
 
 For more information, see the [Workflow practice]()
 
 ### Version control
 
-Version control keep track of changes and modifications to the original data to the final data format and structure needed, and to document each and every step live while working on the data.
+Version control keeps track of changes and modifications to the teaching material, ensures that each new modification is traceable through a unique ID and allows the teachers to move seamlessly between versions (current and past), with no risk of losing information.
 
 For more information, see the [Version Control practice]()
 
 ### Metadata
 
-Metadata describe a dataset.
 Metadata provides a basic set of information meant to support the retrievability of specific outputs and their correct citation.
 
-Metadata for data packages or datasets must include the following:
+Metadata for teaching material must include the following:
 
-- [Attributions](#attribution) (who the authors/contributors are, who did the work on collecting and compiling the data)
-- [Licensing](#licensing) clarifying under what conditions/rules the data can be used/modified/shared, etc.
+- [Attributions](#attribution) (who the authors/contributors are, who did the work on creating, reviewing, revising, updating the teaching material)
+- [Licensing](#licensing) clarifying under what conditions/rules the teaching material can be used/modified/shared, etc.
 
 In addition, metadata should also include the following:
-- [Referencing](#referencing) to source material, to provide information regarding where the data come from.
-- Other relevant information, which might describe the methodology used for collecting the data, or the data format provided, or additional documentation that might be considered relevant to understand the data and their potential use.
+- [Referencing](#referencing) to source material, to provide information regarding where the concepts, quotes, images or other contents come from.
 
 For more information, see the [Metadata practice]()
 
 ### Referencing
 
-Original data sources must be properly documented and cited.
+Original sources of images, graphs and other media, as well as concepts directly reported must be properly documented and cited.
 
 For more information, see the [Referencing practice]()
 
 ### Attribution
 
-All contributors i.e. people involved in collecting, processing, structuring and releasing the data - must be acknowledged.
+All contributors i.e. people involved in creating, reviewing, revising, updating the teaching material - must be acknowledged.
 
 For more information, see the [Attribution practice]()
 
 ### Release
 
-Data must always be associated with a license,
-to clarify what are the legal restrictions (if any) in using, sharing and/or modifying the data.
-All licenses that apply to the original data sources should also be considered in selecting the license for the derived dataset released or shared as research output. This is to make sure the derived work complies with any potential legal restriction imposed on the original data sources.
+Releases must always be associated with a license and a unique identifier.
 
 For more information, see the [Licensing practice]()
 
