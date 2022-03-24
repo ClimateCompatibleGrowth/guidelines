@@ -121,6 +121,6 @@ For more information, see the [Licensing practice]()
 
 # Useful resources
 
-Climate Compatible Growth OpenLearn Collection of courses. [On OpenLearn Create](https://www.open.edu/openlearncreate/course/index.php?categoryid=528)
-UNESCO, Education for Sustainable Development Goals: Learning Objectives. [UNESCO, 2017](https://unesdoc.unesco.org/ark:/48223/pf0000247444)
-Howells, M., et al., 2021. Energy system analytics and good governance-U4RIA goals of Energy Modelling for Policy Support. [Link](https://www.researchsquare.com/article/rs-311311/v1)
+- **Climate Compatible Growth OpenLearn Collection of courses** [On OpenLearn Create](https://www.open.edu/openlearncreate/course/index.php?categoryid=528)
+- **UNESCO, Education for Sustainable Development Goals: Learning Objectives** [UNESCO, 2017](https://unesdoc.unesco.org/ark:/48223/pf0000247444)
+- **Howells, M., et al., 2021. Energy system analytics and good governance-U4RIA goals of Energy Modelling for Policy Support** [Link](https://www.researchsquare.com/article/rs-311311/v1)
