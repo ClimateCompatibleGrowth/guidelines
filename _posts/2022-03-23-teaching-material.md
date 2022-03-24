@@ -83,7 +83,7 @@ For more information, see the [Workflow practice]()
 
 ### Version control
 
-Version control keeps track of changes and modifications to the teaching material, ensures that each new modification is traceable through a unique ID and allows the teachers to move seamlessly between versions (current and past), with no risk of losing information.
+Version control keeps track of changes and modifications to the teaching material, ensures that each new modification is traceable through a unique ID and allows the teachers to move seamlessly between versions (current and past), with no risk of losing information. Semantic versioning can be used to identify different versions of a piece of teaching material (e.g. an exercise that is revised every year can be successively published as version 0, 1.0, 2.0, etc after each annual major revision).
 
 For more information, see the [Version Control practice]()
 
@@ -99,6 +99,8 @@ Metadata for teaching material must include the following:
 In addition, metadata should also include the following:
 - [Referencing](#referencing) to source material, to provide information regarding where the concepts, quotes, images or other contents come from.
 
+Finally, Tags may be added to each piece of teaching material, to allow its faster identification among the larger set of material and to enable new users to filter it out and reuse it.
+
 For more information, see the [Metadata practice]()
 
 ### Referencing
@@ -109,13 +111,13 @@ For more information, see the [Referencing practice]()
 
 ### Attribution
 
-All contributors i.e. people involved in creating, reviewing, revising, updating the teaching material - must be acknowledged.
+All contributors i.e. people involved in creating, reviewing, revising, updating the teaching material - must be acknowledged, including their affiliation and, if applicable, ORCID (see [orcid.org](https://orcid.org/))
 
 For more information, see the [Attribution practice]()
 
 ### Release
 
-Releases must always be associated with a license and a unique identifier.
+Releases must always be associated with a license and a unique identifier (e.g. DOI). A unique identifier will be associated with one and only one release (i.e. instance of the material). The unique identifier can be used to cite and attribute the teaching material. In order to obtain a unique identifier, the authors may upload each part of the material on knowledge repositories such as Zenodo.
 
 For more information, see the [Licensing practice]()
 
