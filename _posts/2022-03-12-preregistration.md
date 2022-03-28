@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pre-registration of research protocols"
-date:   2022-03-23
+title: Pre-registration of research protocols
+date: 2022-03-23
 author: Nandi Moksnes
 category: practice
 tags: ubuntu repeatability reusability reconstructability interoperability auditability
