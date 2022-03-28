@@ -12,7 +12,7 @@ implement the goals of Open Science.
 
 We also provide a description of how the practices can be applied to a range of [Research Outputs](#research-outputs).
 
-# Good Enough Practices
+## Good Enough Practices
 
 {%- if site.posts.size > 0 -%}
 {% assign mydocs = site.posts | group_by: 'category' %}
@@ -21,14 +21,15 @@ We also provide a description of how the practices can be applied to a range of 
   <ul>
     {% assign items = cat.items | sort_natural: "title" %}
     {% for item in items %}
-      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a> - {{ item.excerpt }}</li>
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {{ item.excerpt }}</li>
     {% endfor %}
   </ul>
   {%- endif -%}
 {% endfor %}
 {%- endif -%}
 
-# Research Outputs
+## Research Outputs
 
 {%- if site.posts.size > 0 -%}
 {% assign mydocs = site.posts | group_by: 'category' %}
@@ -44,7 +45,7 @@ We also provide a description of how the practices can be applied to a range of 
 {% endfor %}
 {%- endif -%}
 
-# U4RIA
+## U4RIA
 
 [U4RIA]({% post_url 2021-12-16-u4ria %})
 provides a set of high-level goals relating to conducting
@@ -54,7 +55,7 @@ open and accessible energy system analyses in countries.
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-<h2>{{ t | downcase }}</h2>
+<h3>{{ t | downcase }}</h3>
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}
@@ -74,7 +75,7 @@ Alternatively, you can browse our guidelines by category:
 {% assign mydocs = site.posts | group_by: 'category' %}
 {% for cat in mydocs %}
   {%- if cat.size > 0 -%}
-  <h2>{{ cat.name | capitalize }}</h2>
+  <h3>{{ cat.name | capitalize }}</h3>
   <ul>
     {% assign items = cat.items | sort: 'order' %}
     {% for item in items %}
