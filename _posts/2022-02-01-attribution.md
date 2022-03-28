@@ -39,7 +39,7 @@ For each contributor, the following basic personal information should then be pr
 | Funding acquisition | Acquisition of the financial support for the project leading to this publication |
 
 # Useful resources
-[*The Turing Way*](https://the-turing-way.netlify.app/welcome.html) handbook to reproducible, ethical and collaborative data science includes a section on [**Authorship and Contributions on Academic Articles**][6], with reflections on the ethical aspects of authorship.
+[The Turing Way][7] handbook to reproducible, ethical and collaborative data science includes a section on [**Authorship and Contributions on Academic Articles**][6], with reflections on the ethical aspects of authorship.
 
 ------------
 *This material is derived from the [CCG review of good enough practices][4], released under a [CC-BY 4.0 license][5].*
@@ -53,4 +53,7 @@ For each contributor, the following basic personal information should then be pr
 [4]: https://doi.org/10.5281/zenodo.5911546 "Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, & Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546"
 
 [5]: https://creativecommons.org/licenses/by/4.0/legalcode
+
 [6]: https://the-turing-way.netlify.app/communication/aa.html
+
+[7]: https://doi.org/10.5281/zenodo.5671094 "The Turing Way Community. (2021). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5671094"
