@@ -19,6 +19,8 @@ Using social media, newsletters and blogs to communicate your research is valuab
 
 - Ensure the information shared is referenced correctly and that it is licensed under a [CC BY license][3] that dictates how you and others are allowed to use and share the material. 
 
+This is particularly important for images and pictures, as they are often (re-)shared via social media potentially contravening a license - e.g. in the case of a plot or diagram taken from a paywalled publication. 
+
     For more information, please referr to the guideline on [Licensing]()
 
 - Make sure all contributors are attributed fairly. This increases in importance the more comprehensive the material shared, e.g. more important in a blog post or newsletter than a tweet. In shorter formats, it is good practice to attribute to the contributors by adding links to their profiles on the social media platform of choice (e.g. LinkedIn, Twitter, Facebook). Attributing contributors there also helps to gain and provide 
@@ -34,7 +36,6 @@ visibility.
 
     *Be careful though, to not disclose scientific contributions before they are published as formal academic publications!*
 
-![BlogNewsletterSocialMedia_diagram](img/BlogNewsletterSocialMedia.jpg)
 
 ## Specific pointers for different types of communication
 ### Newsletter and blog posts
