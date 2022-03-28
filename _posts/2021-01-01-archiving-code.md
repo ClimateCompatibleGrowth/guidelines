@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Archive code using Github and Zenodo"
-date:   2021-01-01
+title: Archive code using Github and Zenodo
+date: 2021-01-01
 comments: true
 author: Will Usher
 category: code

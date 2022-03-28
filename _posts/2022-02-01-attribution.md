@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "Attribution"
-date:   2022-02-01
+title: Attribution
+date: 2022-02-01
 author: Agnese Beltramo
 category: practice
 tags: ubuntu retrievability auditability
 ---
 
-To ensure all the people involved in the collaborative process of  research process are acknowledged,
-the [CRediT author statement][1] was introduced in the scientific publishing process.
-The CRediT author statement relies on the [Contributor Roles Taxonomy][2] to clearly describe the range of personal contributions that a researcher brings to a collaborative project.
-The statement helps define what authorship means in the case of scientific research, by broadening the concept to include all intellectual and practical contributors to the final output.
+As research moves towards larger teams of contributors, all the people involved in the collaborative process of research process must be acknowledged.
+
+The [CRediT author statement][1] relies on the [Contributor Roles Taxonomy][2]
+to clearly describe the range of personal contributions that a researcher brings to a collaborative project.
+The statement helps define what authorship means in the case of scientific research,
+by broadening the concept to include all intellectual and practical contributors to the final output.
 
 For each contributor, the following basic personal information should then be provided:
 
@@ -39,7 +41,7 @@ For each contributor, the following basic personal information should then be pr
 | Funding acquisition | Acquisition of the financial support for the project leading to this publication |
 
 # Useful resources
-[*The Turing Way*](https://the-turing-way.netlify.app/welcome.html) handbook to reproducible, ethical and collaborative data science includes a section on [**Authorship and Contributions on Academic Articles**][6], with reflections on the ethical aspects of authorship.
+[The Turing Way][7] handbook to reproducible, ethical and collaborative data science includes a section on [**Authorship and Contributions on Academic Articles**][6], with reflections on the ethical aspects of authorship.
 
 ------------
 *This material is derived from the [CCG review of good enough practices][4], released under a [CC-BY 4.0 license][5].*
@@ -53,4 +55,7 @@ For each contributor, the following basic personal information should then be pr
 [4]: https://doi.org/10.5281/zenodo.5911546 "Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, & Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546"
 
 [5]: https://creativecommons.org/licenses/by/4.0/legalcode
+
 [6]: https://the-turing-way.netlify.app/communication/aa.html
+
+[7]: https://doi.org/10.5281/zenodo.5671094 "The Turing Way Community. (2021). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5671094"
