@@ -5,9 +5,44 @@
 layout: home
 ---
 
-Welcome to the Climate Compatible Growth Guidelines.
-On this site, you can browse guidelines on practices that support
-open science.
+Welcome to the Climate Compatible Growth Curation Guidelines.
+
+On this site, you can browse guidelines on "good enough" [Practices](#good-enough-practices) that
+implement the goals of Open Science.
+
+We also provide a description of how the practices can be applied to a range of [Research Outputs](#research-outputs).
+
+# Good Enough Practices
+
+{%- if site.posts.size > 0 -%}
+{% assign mydocs = site.posts | group_by: 'category' %}
+{% for cat in mydocs %}
+  {%- if cat.size > 0 and cat.name == "practice" -%}
+  <ul>
+    {% assign items = cat.items | sort: 'order' %}
+    {% for item in items %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {%- endif -%}
+{% endfor %}
+{%- endif -%}
+
+# Research Outputs
+
+{%- if site.posts.size > 0 -%}
+{% assign mydocs = site.posts | group_by: 'category' %}
+{% for cat in mydocs %}
+  {%- if cat.size > 0 and cat.name == "output" -%}
+  <ul>
+    {% assign items = cat.items | sort: 'order' %}
+    {% for item in items %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {%- endif -%}
+{% endfor %}
+{%- endif -%}
 
 # u4RIA
 
