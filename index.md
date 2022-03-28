@@ -38,7 +38,8 @@ We also provide a description of how the practices can be applied to a range of 
   <ul>
     {% assign items = cat.items | sort_natural: "title" %}
     {% for item in items %}
-      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {{ item.excerpt }}</li>
     {% endfor %}
   </ul>
   {%- endif -%}
