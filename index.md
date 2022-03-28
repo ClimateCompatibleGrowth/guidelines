@@ -19,9 +19,9 @@ We also provide a description of how the practices can be applied to a range of 
 {% for cat in mydocs %}
   {%- if cat.size > 0 and cat.name == "practice" -%}
   <ul>
-    {% assign items = cat.items | sort: 'order' %}
+    {% assign items = cat.items | sort_natural: "title" %}
     {% for item in items %}
-      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a> - {{ item.excerpt }}</li>
     {% endfor %}
   </ul>
   {%- endif -%}
@@ -35,7 +35,7 @@ We also provide a description of how the practices can be applied to a range of 
 {% for cat in mydocs %}
   {%- if cat.size > 0 and cat.name == "output" -%}
   <ul>
-    {% assign items = cat.items | sort: 'order' %}
+    {% assign items = cat.items | sort_natural: "title" %}
     {% for item in items %}
       <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
     {% endfor %}
@@ -44,10 +44,10 @@ We also provide a description of how the practices can be applied to a range of 
 {% endfor %}
 {%- endif -%}
 
-# u4RIA
+# U4RIA
 
-The u4RIA [goals]({% post_url 2021-12-16-u4ria %}),
-provide a set of high-level goals relating to conducting
+[U4RIA]({% post_url 2021-12-16-u4ria %})
+provides a set of high-level goals relating to conducting
 open and accessible energy system analyses in countries.
 
 {% for tag in site.tags %}

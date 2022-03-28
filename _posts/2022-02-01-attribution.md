@@ -7,10 +7,12 @@ category: practice
 tags: ubuntu retrievability auditability
 ---
 
-To ensure all the people involved in the collaborative process of  research process are acknowledged,
-the [CRediT author statement][1] was introduced in the scientific publishing process.
-The CRediT author statement relies on the [Contributor Roles Taxonomy][2] to clearly describe the range of personal contributions that a researcher brings to a collaborative project.
-The statement helps define what authorship means in the case of scientific research, by broadening the concept to include all intellectual and practical contributors to the final output.
+As research moves towards larger teams of contributors, all the people involved in the collaborative process of research process must be acknowledged.
+
+The [CRediT author statement][1] relies on the [Contributor Roles Taxonomy][2]
+to clearly describe the range of personal contributions that a researcher brings to a collaborative project.
+The statement helps define what authorship means in the case of scientific research,
+by broadening the concept to include all intellectual and practical contributors to the final output.
 
 For each contributor, the following basic personal information should then be provided:
 

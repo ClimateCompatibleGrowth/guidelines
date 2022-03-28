@@ -8,11 +8,13 @@ category: practice
 tags: ubuntu retrievability repeatability reusability reconstructability auditability
 ---
 
-Version Control Systems (VCS), such as Git, Mercurial and Subversion
-provide the ability to record a history of changes
-to source code, data, or other text-based material.
-VCS allows researchers to switch between these points in the history,
-view the differences between them,
+Version Control Systems record a history of changes to source code, data, or other text-based material
+enabling collaboration between distributed teams of researchers.
+
+Version control systems, such as Git, Mercurial and Subversion,
+allow researchers to switch between these points in the development history
+of the material that is being tracked,
+view the differences between these points,
 and create new modifications from any point in the history.
 In short, version control provides "infinite levels of undo".
 

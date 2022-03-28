@@ -4,15 +4,13 @@ title:  "Licensing"
 date:   2022-03-01
 author: Agnese Beltramo
 category: practice
-tags: reusability
+tags: reusability retrievability
 ---
 
-Licensing is an important part of any output release.
-Once a new piece of work is ready to be published,
-adding a license clarifies what are the permitted uses
+A license clarifies what are the permitted uses
 of the work by other parties and rights of the author and user.
 
-Within the context of open science,
+Within the context of Open Science,
 the aim of licensing is to allow broad access and reuse
 of research outputs.
 Licensing contributes to ensuring transparency and accessibility.
