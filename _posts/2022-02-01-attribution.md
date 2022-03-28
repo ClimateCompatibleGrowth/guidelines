@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Attribution"
-date:   2022-02-01
+title: Attribution
+date: 2022-02-01
 author: Agnese Beltramo
 category: practice
 tags: ubuntu retrievability auditability

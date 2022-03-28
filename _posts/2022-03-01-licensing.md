@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Licensing"
-date:   2022-03-01
+title: Licensing
+date: 2022-03-01
 author: Agnese Beltramo
 category: practice
 tags: reusability retrievability

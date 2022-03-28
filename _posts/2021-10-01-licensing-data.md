@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Choose an open license for a dataset"
-date:   2021-10-01 15:56:25 +0200
+title: Choose an open license for a dataset
+date:  2021-10-01
 author: Will Usher
 category: data
 tags: reusability retrievability

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Version Control"
-date:   2021-01-01
+title: Version Control
+date: 2021-01-01
 comments: true
 author: Will Usher
 category: practice
