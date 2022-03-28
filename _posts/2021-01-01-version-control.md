@@ -8,25 +8,26 @@ category: practice
 tags: ubuntu retrievability repeatability reusability reconstructability auditability
 ---
 
-Version Control Systems (VCS), such as Git, Mecurial and Subversion
+Version Control Systems (VCS), such as Git, Mercurial and Subversion
 provide the ability to record a history of changes
 to source code, data, or other text-based material.
-VCS allows researchers t oswitch between these points in the history,
+VCS allows researchers to switch between these points in the history,
 view the differences between them,
 and create new modifications from any point in the history.
 In short, version control provides "infinite levels of undo".
 
-The history of changes are stored in a "repository".
+The history of changes is stored in a "repository".
 A repository can be navigated using a command-line tool,
 or a graphical-user interface.
 
 Version control enables collaborative workflows
 in either a centralised or distributed fashion,
 which can effectively support scientific work.
-Because each change (or "commit") to tracked content is recorded with associated metadata that records the time, date, author, and a commit message,
-conflicts between changes can be resolved in a systematic fashion.
-This gives collaborators the freedom to make changes as they want,
-and then merge their changes when they are ready.
+Conflicts between changes can be resolved in a systematic fashion
+because each change (or "commit") to content tracked by the version control system is recorded
+with associated metadata that records the time, date, author, and a commit message.
+This gives collaborators the freedom to work in parallel to one another,
+make changes as they want and then merge their changes when they are ready.
 
 The use of version control supports reproducibility and transparency
 through the consistent and structured workflow necessary
@@ -43,9 +44,8 @@ Version Control is now seen as a cornerstone of reproducible computational resea
 Recognising that even small changes to computer code
 can have large unintended consequences
 on the output of scientific software,
-then version control provides a structured and convenient means
+version control provides a structured and convenient means
 to record which version of scientific software was used for a study.
-
 The ability to easily switch between code versions
 supports systematic approaches to debugging,
 and the reproduction of results from different points in the project
@@ -63,17 +63,29 @@ then that data can be placed under version control.
 This provides all the benefits listed above,
 in terms of enabling collaboration
 and providing a systematic process for updating and versioning the data.
+Applying version control to data contributes to the findable,
+accessible and reproducible aspects of the [FAIR principles][11].
 
-There are also number of tools that allow binary data to be placed
-under version control including [Git-LFS][5], which replaces large files with text pointers to the files stored on a server,
-and [DVC][6],
-which was built for data scientists and machine learning
-projects.
+There are also a number of tools that allow binary data to be placed
+under version control including [Git-LFS][5],
+which replaces large files with text pointers to the files stored on a server,
+and [DVC][6], which was built for data scientists and machine learning projects.
 
 # Applying version control to other material
 
 Version control can be applied to any text-based material.
-A version control *repository* can contain a mixture of text-based material including computer code, data and documentation. For example, some researchers use version control to facilitate collaboration on journal articles.
+A version control *repository* can contain a mixture of text-based material
+including computer code, data and documentation.
+For example, some researchers use version control to facilitate collaboration on journal articles.
+[Software Carpentry][9] use Github to host all of their teaching material.
+Contributors use the collaboration features provided by the Git version control system,
+and Github website to develop, organise and update teaching material.
+The online teaching material "source code" is written in Markdown,
+a mark-up language that allows contributors to style a web-page using simple syntax.
+New ideas are submitted using the issue tracker where they are discussed and prioritised.
+Contributions are submitted via a pull-request and reviewed by the administration team,
+and finally merged into the main branch which holds the latest version of the material.
+This material is then rendered on the respective course website.
 
 # Further Reading and Next Steps
 
@@ -85,7 +97,8 @@ Their materials are free to view and use, and they also run in-person and remote
 
 ---
 
-This material is derived from the [CCG review of good enough practices][1] which is released under a [CC-BY 4.0 license][2].
+This material is derived from the [CCG review of good enough practices][1]
+which is released under a [CC-BY 4.0 license][2].
 
 [1]: https://doi.org/10.5281/zenodo.5911546 "Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, & Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546"
 
@@ -106,3 +119,5 @@ This material is derived from the [CCG review of good enough practices][1] which
 [9]: https://software-carpentry.org/ "Software Carpentry"
 
 [10]: http://swcarpentry.github.io/git-novice "Version Control with Git"
+
+[11]: http://doi.org/10.1038/sdata.2016.18 "M. D. Wilkinson et al., ‘The FAIR Guiding Principles for scientific data management and stewardship’, Sci Data, vol. 3, no. 1, p. 160018, Mar. 2016, doi: 10.1038/sdata.2016.18."
