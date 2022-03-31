@@ -7,7 +7,11 @@ category: practice
 tags: retrievability repeatability reusability reconstructability auditability
 ---
 
-Referencing is a formal process of acknowledging all sources of information or work from other authors that you used when creating any original material. Referencing consists of two parts: a citation and a reference. The citation is a note, a number, or an identifier of the source, within your work's text that acknowledges other authors' works in the relevant section. The reference expands on the citation and encompasses the source details that inform its location.
+Referencing is a formal process of acknowledging all sources of information or work from other authors that you used when creating any original material.
+
+Referencing consists of two parts: a citation and a reference.
+The citation is a note, a number, or an identifier of the source, within your work's text that acknowledges other authors' works in the relevant section.
+The reference expands on the citation and encompasses the source details that inform its location.
 
 ### Why is referencing important?
 
