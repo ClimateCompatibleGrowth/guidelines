@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Publish a dataset on Zenodo"
+title: Publish a dataset on Zenodo
 author: Will Usher
-date:   2021-10-21
+date: 2021-10-21
 category: data
 tags: retrievability
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Organise a dataset"
-date:   2021-10-21
-author:
+title: Organise a dataset
+date: 2021-10-21
+author: Will Usher
 category: data
 tags: retrievability repeatability
 ---

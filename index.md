@@ -5,21 +5,58 @@
 layout: home
 ---
 
-Welcome to the Climate Compatible Growth Guidelines.
-On this site, you can browse guidelines on practices that support
-open science.
+Welcome to the Climate Compatible Growth Curation Guidelines.
 
-# u4RIA
+On this site, you can browse guidelines on "good enough" [Practices](#good-enough-practices) that
+implement the goals of Open Science.
 
-The u4RIA [goals]({% post_url 2021-12-16-u4ria %}),
-provide a set of high-level goals relating to conducting
+We also provide a description of how the practices can be applied to a range of [Research Outputs](#research-outputs).
+
+## Good Enough Practices
+
+{%- if site.posts.size > 0 -%}
+{% assign mydocs = site.posts | group_by: 'category' %}
+{% for cat in mydocs %}
+  {%- if cat.size > 0 and cat.name == "practice" -%}
+  <ul>
+    {% assign items = cat.items | sort_natural: "title" %}
+    {% for item in items %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {{ item.excerpt }}</li>
+    {% endfor %}
+  </ul>
+  {%- endif -%}
+{% endfor %}
+{%- endif -%}
+
+## Research Outputs
+
+{%- if site.posts.size > 0 -%}
+{% assign mydocs = site.posts | group_by: 'category' %}
+{% for cat in mydocs %}
+  {%- if cat.size > 0 and cat.name == "output" -%}
+  <ul>
+    {% assign items = cat.items | sort_natural: "title" %}
+    {% for item in items %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {{ item.excerpt }}</li>
+    {% endfor %}
+  </ul>
+  {%- endif -%}
+{% endfor %}
+{%- endif -%}
+
+## U4RIA
+
+[U4RIA]({% post_url 2021-12-16-u4ria %})
+provides a set of high-level goals relating to conducting
 open and accessible energy system analyses in countries.
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-<h2>{{ t | downcase }}</h2>
+<h3>{{ t | downcase }}</h3>
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}
@@ -39,7 +76,7 @@ Alternatively, you can browse our guidelines by category:
 {% assign mydocs = site.posts | group_by: 'category' %}
 {% for cat in mydocs %}
   {%- if cat.size > 0 -%}
-  <h2>{{ cat.name | capitalize }}</h2>
+  <h3>{{ cat.name | capitalize }}</h3>
   <ul>
     {% assign items = cat.items | sort: 'order' %}
     {% for item in items %}
