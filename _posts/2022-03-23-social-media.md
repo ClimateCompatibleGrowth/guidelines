@@ -71,7 +71,7 @@ For more information, please refer to the [Attribution practice]({% post_url 202
 This is digital communication. Therefore, use hyperlinks to guide your readers to more information,
 and always to the original articles and open science outputs.
 
-For more information, please refer to the [Referencing practice]()
+For more information, please refer to the [Referencing practice]({% post_url 2022-03-18-referencing %})
 
 ## Useful resources
 
