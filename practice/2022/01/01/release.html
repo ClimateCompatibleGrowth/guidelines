@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Release | Climate Compatible Growth Curation Guidelines</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Release" />
+<meta name="author" content="Will Usher" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A release process identifies a specific instance of a piece of continually updated software, data, tool or method and makes that instance findable and accessible." />
+<meta property="og:description" content="A release process identifies a specific instance of a piece of continually updated software, data, tool or method and makes that instance findable and accessible." />
+<link rel="canonical" href="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/01/01/release.html" />
+<meta property="og:url" content="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/01/01/release.html" />
+<meta property="og:site_name" content="Climate Compatible Growth Curation Guidelines" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-01-01T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Release" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Will Usher"},"dateModified":"2022-01-01T00:00:00+00:00","datePublished":"2022-01-01T00:00:00+00:00","description":"A release process identifies a specific instance of a piece of continually updated software, data, tool or method and makes that instance findable and accessible.","headline":"Release","mainEntityOfPage":{"@type":"WebPage","@id":"https://climatecompatiblegrowth.github.io/guidelines/practice/2022/01/01/release.html"},"url":"https://climatecompatiblegrowth.github.io/guidelines/practice/2022/01/01/release.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/guidelines/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://climatecompatiblegrowth.github.io/guidelines/feed.xml" title="Climate Compatible Growth Curation Guidelines" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/guidelines/">Climate Compatible Growth Curation Guidelines</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/guidelines/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Release</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2022-01-01T00:00:00+00:00" itemprop="datePublished">Jan 1, 2022
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Will Usher</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>A release process identifies a specific instance of a piece of continually updated software,
+data, tool or method and makes that instance findable and accessible.</p>
+
+<p>By depositing the product of the release in an archive such as <a href="https://zenodo.org/">Zenodo</a>,
+a provenance trail from the research output to the exact sources that contribute to that output
+is created.
+It also makes it very easy to communicate precisely about what sources of data, software, etc. you are using.</p>
+
+<p>“Releasing” or “creating a release” is a practice that stems from the software development cycle
+and is facilitated by use of <a href="/guidelines/practice/2021/01/01/version-control.html">version control</a>.
+However, you do not have to use version control to apply the principles to your own work.</p>
+
+<p>In the following sections, we explain how you can use the practice of creating a release
+to meet the requirements of reproducible research.</p>
+
+<h3 id="existing-standards">Existing standards</h3>
+
+<p>In software development, a common standard to identify software releases
+is to use <a href="https://semver.org/" title="Semantic Versioning 2.0.0">semantic versioning</a>,
+where three numbers are separated by full-stops,
+and the numbers are incremented after major, minor and “patch” changes respectively.
+The advantage of using semantic versioning is that it becomes very easy
+to reference a specific version (e.g.<code class="language-plaintext highlighter-rouge">v1.2.1</code>)
+and determine that another version is newer
+(<code class="language-plaintext highlighter-rouge">v1.2.2</code> and <code class="language-plaintext highlighter-rouge">v1.10.3</code> are newer than <code class="language-plaintext highlighter-rouge">v1.2.1</code>),
+and to what extent the versions differ
+(<code class="language-plaintext highlighter-rouge">v1.0</code> to <code class="language-plaintext highlighter-rouge">v2.0</code> will include major “breaking” changes).</p>
+
+<h2 id="releasing-data">Releasing data</h2>
+
+<p>After incrementing the version number, you can <a href="/guidelines/data/2021/10/21/publishing-dataset-zenodo.html">archive your data set using Zenodo</a> or another sector-specific deposit for data,
+such as <a href="https://energydata.info/">energydata.info</a></p>
+
+<p>As the dataset is updated, releases are made at regular intervals
+with previous versions of the data remaining publicly available under their earlier version numbers.
+This allows users to see how the data has changed over time,
+and allows users to adjust to major or structural changes in the
+dataset.</p>
+
+<p>When using semantic versioning for data, it is important to document
+how the concepts of major, minor and patch changes apply to your dataset.
+For example, a major change may involve structural changes that are backward incompatible.
+A “patch” change would involve updating numbers in a table or file.</p>
+
+<h2 id="releasing-other-material">Releasing other material</h2>
+
+<p>There are examples of version control, tags and releases applied to
+documents, such as data standards and ontologies <a href="https://doi.org/10.1029/2021EA001797" title="Crystal-Ornelas, R., Varadharajan, C., Bond-Lamberty, B., Boye, K., Burrus, M., Cholia, S., et al. (2021). A guide to using GitHub for developing and versioning data standards and reporting formats. Earth and Space Science, 8, e2021EA001797. https://doi.org/10.1029/2021EA001797">6</a>
+to clarify the development process and enable distributed collaboration
+which suit these technical documents.</p>
+
+<p>Once you are comfortable with the concept of releases, you can apply a release process to any material in a similar way as you can for data and software.</p>
+
+<p>Some examples:</p>
+
+<ul>
+  <li>a diagram or image can be tracked under version control and periodically released using the same process as for software</li>
+  <li>a journal article can tracked under version control and worked on collaboratively using Github.
+<code class="language-plaintext highlighter-rouge">v1.0</code> is submitted for review and to a pre-print archive.
+ The revised article is <code class="language-plaintext highlighter-rouge">v2.0</code>,
+ and some final small edits result in <code class="language-plaintext highlighter-rouge">v2.1</code> being accepted for publication.
+Some typos fixed in the version of the article in the pre-print archive result in <code class="language-plaintext highlighter-rouge">v1.1</code></li>
+  <li>lecture material is worked on collaboratively.
+Last year, <code class="language-plaintext highlighter-rouge">v1.0.0</code> of the lecture was published in OpenLearnCreate.
+This year, the material was updated and <code class="language-plaintext highlighter-rouge">v1.1</code> was published,
+only for an image to be replaced in one of the slides at the last minute (<code class="language-plaintext highlighter-rouge">v1.1.1</code>).
+Next year, the material will be completely revised (<code class="language-plaintext highlighter-rouge">v2.0</code>).</li>
+</ul>
+
+<h2 id="releasing-software">Releasing software</h2>
+
+<p>When developing scientific code, a typical development cycle is followed where iterative development phases follow a pattern:</p>
+
+<ol>
+  <li>requirement gathering</li>
+  <li>design</li>
+  <li>implementation</li>
+  <li>verification &amp; validation</li>
+</ol>
+
+<p>A release publishes each verified and validated
+version of the software.
+Software releases can be managed using only version control
+and, for example, <a href="https://docs.github.com/en/repositories/releasing-projects-on-github" title="GitHub Docs: Releasing Projects on Github">Github Releases</a>.
+First, create a new tag using semantic versioning.
+Then create a new release on Github based on that tag.</p>
+
+<p>More advanced software development will incorporate continuous testing which is triggered whenever code is changed, and continuous deployment which is triggered whenever code is tagged and a release is created.</p>
+
+<p>It is also good practice to <a href="/guidelines/code/2021/01/01/archiving-code.html">archive your software using Zenodo</a>.
+An automatic link between Github and Zenodo deposits the source code on Zenodo upon every release.</p>
+
+<h2 id="releasing-software-an-advanced-example">Releasing software, an advanced example</h2>
+
+<p>The Python package <a href="https://doi.org/10.5334/jors.265" title="Will Usher and Tom Russell. (2019) A Software Framework for the Integration of Infrastructure Simulation Models. Journal of Open Research Software, 7: 16 DOI: https://doi.org/10.5334/jors.265">smif</a> uses the following procedure for handling new releases [edited for clarity]. The source code is held under version control using Git and published on Github.
+The Github issue tracker is used to track the release process.
+The issue is closed upon successful completion of all the steps.
+An issue template is used to ensure the same procedure is followed for each release.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Release step</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>create a release branch</td>
+      <td>by creating a branch to track a release, the release can be prepared independently of the main codebase</td>
+    </tr>
+    <tr>
+      <td>update CHANGELOG file with notes on features and fixes since last release.</td>
+      <td>The changelog contains a summary of all the changes made since the previous release</td>
+    </tr>
+    <tr>
+      <td>update AUTHORS file</td>
+      <td>A list of all the contributors to the software</td>
+    </tr>
+    <tr>
+      <td>create and push an annotated tag</td>
+      <td>A “tag” uniquely identifies the version of the code which forms the release. Semantic versioning is used for the tag name. The annotation is a brief description of the release.</td>
+    </tr>
+    <tr>
+      <td>open a pull request</td>
+      <td>The pull request offers an opportunity to review and field comments from contributors. It also triggers automated tests, and if these pass, automated deployment of the release to the package index</td>
+    </tr>
+    <tr>
+      <td>wait (~15 minutes) for tests to pass</td>
+      <td>The tests affirm code quality and that the release will be ready for production (i.e. it will work)</td>
+    </tr>
+    <tr>
+      <td>check that deploy stage ran as expected, new version available on https://pypi.org/project/smif/#history</td>
+      <td>The released software is available for installation on the Python Packaging Index</td>
+    </tr>
+    <tr>
+      <td>create a GitHub release for the tag</td>
+      <td>A Github release triggers the release to be archived on Zenodo</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>See the complete notes in the <a href="https://smif.readthedocs.io/en/latest/developers.html#releases">smif documentation</a>.</p>
+
+<hr />
+
+<p>This material is derived from the <a href="https://doi.org/10.5281/zenodo.5911546" title="Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546">CCG review of good enough practices</a> which is released under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a>.</p>
+
+
+  </div><div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'https://climatecompatiblegrowth.github.io/guidelines/practice/2022/01/01/release.html';
+      this.page.identifier = 'https://climatecompatiblegrowth.github.io/guidelines/practice/2022/01/01/release.html';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = 'https://https-climatecompatiblegrowth-github-io-guidelines.disqus.com/embed.js';
+
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript><a class="u-url" href="/guidelines/practice/2022/01/01/release.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/guidelines/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Climate Compatible Growth Curation Guidelines</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Climate Compatible Growth Curation Guidelines</li><li><a class="u-email" href="mailto:curation@climatecompatiblegrowth.com">curation@climatecompatiblegrowth.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/climatecompatiblegrowth"><svg class="svg-icon"><use xlink:href="/guidelines/assets/minima-social-icons.svg#github"></use></svg> <span class="username">climatecompatiblegrowth</span></a></li><li><a href="https://www.twitter.com/ResearchCCG"><svg class="svg-icon"><use xlink:href="/guidelines/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">ResearchCCG</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Curation guidelines to support researchers, analysts, modellers and policy makers in the application of u4RIA and the Round Table Principles to energy planning</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

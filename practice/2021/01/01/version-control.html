@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Version Control | Climate Compatible Growth Curation Guidelines</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Version Control" />
+<meta name="author" content="Will Usher" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Version Control Systems record a history of changes to source code, data, or other text-based material enabling collaboration between distributed teams of researchers." />
+<meta property="og:description" content="Version Control Systems record a history of changes to source code, data, or other text-based material enabling collaboration between distributed teams of researchers." />
+<link rel="canonical" href="https://climatecompatiblegrowth.github.io/guidelines/practice/2021/01/01/version-control.html" />
+<meta property="og:url" content="https://climatecompatiblegrowth.github.io/guidelines/practice/2021/01/01/version-control.html" />
+<meta property="og:site_name" content="Climate Compatible Growth Curation Guidelines" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-01-01T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Version Control" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Will Usher"},"dateModified":"2021-01-01T00:00:00+00:00","datePublished":"2021-01-01T00:00:00+00:00","description":"Version Control Systems record a history of changes to source code, data, or other text-based material enabling collaboration between distributed teams of researchers.","headline":"Version Control","mainEntityOfPage":{"@type":"WebPage","@id":"https://climatecompatiblegrowth.github.io/guidelines/practice/2021/01/01/version-control.html"},"url":"https://climatecompatiblegrowth.github.io/guidelines/practice/2021/01/01/version-control.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/guidelines/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://climatecompatiblegrowth.github.io/guidelines/feed.xml" title="Climate Compatible Growth Curation Guidelines" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/guidelines/">Climate Compatible Growth Curation Guidelines</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/guidelines/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Version Control</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2021-01-01T00:00:00+00:00" itemprop="datePublished">Jan 1, 2021
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Will Usher</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Version Control Systems record a history of changes to source code, data, or other text-based material
+enabling collaboration between distributed teams of researchers.</p>
+
+<p>Version control systems, such as Git, Mercurial and Subversion,
+allow researchers to switch between these points in the development history
+of the material that is being tracked,
+view the differences between these points,
+and create new modifications from any point in the history.
+In short, version control provides “infinite levels of undo”.</p>
+
+<p>The history of changes is stored in a “repository”.
+A repository can be navigated using a command-line tool,
+or a graphical-user interface.</p>
+
+<p>Version control enables collaborative workflows
+in either a centralised or distributed fashion,
+which can effectively support scientific work.
+Conflicts between changes can be resolved in a systematic fashion
+because each change (or “commit”) to content tracked by the version control system is recorded
+with associated metadata that records the time, date, author, and a commit message.
+This gives collaborators the freedom to work in parallel to one another,
+make changes as they want and then merge their changes when they are ready.</p>
+
+<p>The use of version control supports reproducibility and transparency
+through the consistent and structured workflow necessary
+for working with a VCS.
+For example, messages associated with changes to the code [“commits”]
+provide a running commentary on the development of the work itself.
+Version control allows entire repositories to be easily shared,
+facilitating the publishing of the work online,
+through websites such as Github and Gitlab.</p>
+
+<h1 id="applying-version-control-to-software">Applying version control to software</h1>
+
+<p>Version Control is now seen as a cornerstone of reproducible computational research.
+Recognising that even small changes to computer code
+can have large unintended consequences
+on the output of scientific software,
+version control provides a structured and convenient means
+to record which version of scientific software was used for a study.
+The ability to easily switch between code versions
+supports systematic approaches to debugging,
+and the reproduction of results from different points in the project
+<a href="https://doi.org/10.1371/journal.pcbi.1003285" title="G. K. Sandve, A. Nekrutenko, J. Taylor, and E. Hovig, ‘Ten Simple Rules for Reproducible Computational Research’, PLOS Computational Biology, vol. 9, no. 10, p. e1003285, Oct. 2013, doi: 10.1371/journal.pcbi.1003285.">(Sandve et al., 2013)</a>.</p>
+
+<h1 id="applying-version-control-to-data">Applying version control to data</h1>
+
+<p>Most version control systems are designed for management of source code,
+which is text-based.</p>
+
+<p>If data is stored as text,
+for example in comma-separated value files (csv),
+or as a <a href="https://specs.frictionlessdata.io/data-package/" title="Frictionless Data Package">Frictionless Data Package</a>,
+then that data can be placed under version control.
+This provides all the benefits listed above,
+in terms of enabling collaboration
+and providing a systematic process for updating and versioning the data.
+Applying version control to data contributes to the findable,
+accessible and reproducible aspects of the <a href="http://doi.org/10.1038/sdata.2016.18" title="M. D. Wilkinson et al., ‘The FAIR Guiding Principles for scientific data management and stewardship’, Sci Data, vol. 3, no. 1, p. 160018, Mar. 2016, doi: 10.1038/sdata.2016.18.">FAIR principles</a>.</p>
+
+<p>There are also a number of tools that allow binary data to be placed
+under version control including <a href="https://git-lfs.github.com/" title="Git Large-File-System">Git-LFS</a>,
+which replaces large files with text pointers to the files stored on a server,
+and <a href="https://dvc.org/" title="DVC">DVC</a>, which was built for data scientists and machine learning projects.</p>
+
+<h1 id="applying-version-control-to-other-material">Applying version control to other material</h1>
+
+<p>Version control can be applied to any text-based material.
+A version control <em>repository</em> can contain a mixture of text-based material
+including computer code, data and documentation.
+For example, some researchers use version control to facilitate collaboration on journal articles.
+<a href="https://software-carpentry.org/" title="Software Carpentry">Software Carpentry</a> use Github to host all of their teaching material.
+Contributors use the collaboration features provided by the Git version control system,
+and Github website to develop, organise and update teaching material.
+The online teaching material “source code” is written in Markdown,
+a mark-up language that allows contributors to style a web-page using simple syntax.
+New ideas are submitted using the issue tracker where they are discussed and prioritised.
+Contributions are submitted via a pull-request and reviewed by the administration team,
+and finally merged into the main branch which holds the latest version of the material.
+This material is then rendered on the respective course website.</p>
+
+<h1 id="further-reading-and-next-steps">Further Reading and Next Steps</h1>
+
+<p><a href="https://the-turing-way.netlify.app/welcome.html">The Turing Way</a> has a section on version control.
+To learn version control, there are many online courses available.
+<a href="https://coderefinery.org" title="CodeRefinery">Coderefinery</a> provide an <a href="https://coderefinery.org/git-intro/" title="Intro to Git">“Intro to Git”</a>.
+<a href="https://software-carpentry.org/" title="Software Carpentry">Software Carpentry</a> also have a similar course <a href="http://swcarpentry.github.io/git-novice" title="Version Control with Git">“Version Control with Git”</a>.
+Their materials are free to view and use, and they also run in-person and remote training.</p>
+
+<hr />
+
+<p>This material is derived from the <a href="https://doi.org/10.5281/zenodo.5911546" title="Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546">CCG review of good enough practices</a>
+which is released under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a>.</p>
+
+
+  </div><div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'https://climatecompatiblegrowth.github.io/guidelines/practice/2021/01/01/version-control.html';
+      this.page.identifier = 'https://climatecompatiblegrowth.github.io/guidelines/practice/2021/01/01/version-control.html';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = 'https://https-climatecompatiblegrowth-github-io-guidelines.disqus.com/embed.js';
+
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript><a class="u-url" href="/guidelines/practice/2021/01/01/version-control.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/guidelines/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Climate Compatible Growth Curation Guidelines</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Climate Compatible Growth Curation Guidelines</li><li><a class="u-email" href="mailto:curation@climatecompatiblegrowth.com">curation@climatecompatiblegrowth.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/climatecompatiblegrowth"><svg class="svg-icon"><use xlink:href="/guidelines/assets/minima-social-icons.svg#github"></use></svg> <span class="username">climatecompatiblegrowth</span></a></li><li><a href="https://www.twitter.com/ResearchCCG"><svg class="svg-icon"><use xlink:href="/guidelines/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">ResearchCCG</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Curation guidelines to support researchers, analysts, modellers and policy makers in the application of u4RIA and the Round Table Principles to energy planning</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
