@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://climatecompatiblegrowth.github.io/guidelines/feed.xml" rel="self" type="application/atom+xml" /><link href="https://climatecompatiblegrowth.github.io/guidelines/" rel="alternate" type="text/html" /><updated>2022-09-02T13:29:15+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/feed.xml</id><title type="html">Climate Compatible Growth Curation Guidelines</title><subtitle>Curation guidelines to support researchers, analysts, modellers and policy makers in the application of u4RIA and the Round Table Principles to energy planning</subtitle><entry><title type="html">Briefings</title><link href="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/24/briefs.html" rel="alternate" type="text/html" title="Briefings" /><published>2022-03-24T00:00:00+00:00</published><updated>2022-03-24T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/24/briefs</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/24/briefs.html"><![CDATA[<p>Briefings are short and accessible knowledge outputs that condense science into key messages and are used by a specific target audience. An example of this is a policy brief which summarises key messages relevant for policy makers.</p>
+
+<p>The target audience is one of informed, but not necessarily specialised professionals. In the case of a policy brief, this may include national government officials; climate negotiators; and people that work on climate policy in international organizations, the private sector, NGOs, and other stakeholders. In the case of a briefing note from a project, this may include officials and project managers from the funding institution.</p>
+
+<p>In actions that lie at the interface between science and policy, and where the ground research is carried out by academia, briefings may be used to timely and quickly communicate key research outputs while the longer peer-review process for the related articles goes on. For this to be feasible, given the similarity between the briefing and the paper, it is recommended that the paper is submitted to a journal that accepts pre-prints and the briefing is uploaded on a pre-print server (e.g. ArXiv or ResearchSquare).</p>
+
+<h2 id="writing-a-briefing">Writing a briefing</h2>
+
+<p>Canada’s International Development Research Centre provides a <a href="https://www.idrc.ca/en/how-write-policy-brief">guide for writing policy briefs</a> which is easily generalisable to any type of briefing.</p>
+
+<p>The following features are commonly agreed to be essential elements of a briefing:</p>
+<ul>
+  <li>Plain language and clear conclusions</li>
+  <li>Concise documents that stand alone</li>
+  <li>Include an
+    <ul>
+      <li>executive summary</li>
+      <li>introduction - context, need, main question, objective</li>
+      <li>content or research overview</li>
+      <li>key findings</li>
+      <li>conclusions and recommendations</li>
+    </ul>
+  </li>
+</ul>
+
+<p>When planning a briefing, the author(s) need(s) to carefully consider and choose:</p>
+
+<ol>
+  <li>Purpose: it should be clearly defined and specific, stated upfront, convincing;</li>
+  <li>Audience: it should be specific; different audiences will need different types of briefings;</li>
+  <li>Content: it should include only essential information; it should avoid being wordy and descriptive; it should avoid complicated terminology or excessive use of not-commonly-known acronyms;</li>
+  <li>Structure: it can be customised, but it should have a flow from problem to solution.</li>
+</ol>
+
+<h2 id="fostering-open-science-through-briefings">Fostering open science through briefings</h2>
+
+<p>Incorporating Open Science practices will increase the retrievability, usability and auditability of a briefing and its underlying work (in compliance with <a href="/guidelines/principles/2021/12/16/u4ria.html">U4RIA goals</a>), thereby increasing its reach and impact.</p>
+
+<h3 id="licensing">Licensing</h3>
+
+<p>The briefing and any image, graph etc. within it should be open-licensed.
+The license attributed to the briefing as a whole should not be more permissive than the one attributed to its elements.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/01/licensing.html">Licensing practice</a></p>
+
+<h3 id="metadata">Metadata</h3>
+
+<p>Metadata provides a basic set of information meant to support the retrievability of specific outputs and their correct citation.</p>
+
+<p>Metadata for a briefing should include the following:</p>
+
+<ul>
+  <li><a href="#attribution">Attributions</a> (who the authors and reviewers are, their affiliation and if applicable their ORCID)</li>
+  <li><a href="#licensing">Licensing</a> clarifying under what conditions/rules the briefing can be used/shared</li>
+  <li><a href="#referencing">Referencing</a> to source material, to provide information regarding where the concepts, quotes, images or other contents come from.</li>
+</ul>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/13/metadata.html">Metadata practice</a></p>
+
+<h3 id="referencing">Referencing</h3>
+
+<p>Original sources of images, graphs and other media, as well as concepts directly reported must be properly documented and cited.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/18/referencing.html">Referencing practice</a></p>
+
+<h3 id="attribution">Attribution</h3>
+
+<p>All contributors to the briefing and its underlying research (if any) should be acknowledged, following the CRediT guidelines.
+Funding sources and external contributions should also be acknowledged, in ways agreed with the relevant parties.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/02/01/attribution.html">Attribution practice</a></p>
+
+<h3 id="release">Release</h3>
+
+<p>Briefings can be shared on pre-print servers (such as ArXiv or ResearchSquare). In the process of sharing them, metadata on the lines of those mentioned above will have to be filled in (the extent and type of metadata varies with the pre-print server chosen). Once the briefing has been shared, the version that has been shared will obtain a unique identifier (DOI). This can be used to reference and attribute the briefing.
+Alternatively, the authors may choose to share the briefings on knowledge repositories such as Zenodo. The process will be the same and also in this case a unique identifier, associated with the one version shared, will be created.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/01/01/release.html">Release practice</a></p>
+
+<h2 id="an-example-from-the-climate-compatible-growth-program">An example from the Climate Compatible Growth program</h2>
+
+<h3 id="structure-and-quality">Structure and quality</h3>
+
+<ul>
+  <li>After internal review (see section below), the briefing is published by the authors on a pre-print server</li>
+  <li>The briefing is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></li>
+  <li>The briefing is written using a specific template agreed by all the project partners and using Overleaf</li>
+  <li>The briefing is 1000-1300 words in total (excluding references and acknowledgements), with an additional key message box, containing 3-4 key messages (75-150 words in total).</li>
+  <li>A referencing style is used (e.g. Nature).</li>
+  <li>The content is structured as follows:
+    <ol>
+      <li>Introduction/Context: a brief description of the wider context, the need for the research being presented, and what precisely the briefing will cover.</li>
+      <li>Methodology: a description of the methodology of the research, such as what models and scenarios were used and the assumptions behind; the number and type of interviews conducted and the type of interviewee; a description of the desktop study and the process of literature review.</li>
+      <li>Results: a summary of what the results of the research are.</li>
+      <li>Discussion/Conclusion: What the significance of the results is.</li>
+      <li>Recommendations. 2-4 recommendations (e.g., policy recommendations for a policy brief).</li>
+      <li>References.</li>
+      <li>Acknowledgements.</li>
+    </ol>
+  </li>
+</ul>
+
+<h3 id="review-workflow">Review workflow</h3>
+
+<ol>
+  <li>Calls for briefs with different themes are launched periodically</li>
+  <li>The authors write a brief for a particular call, following all the above guidelines, and submit it with the Tag of the call and the naming convention indicated on the submission portal</li>
+  <li>The brief lands on the desk of the Chief Editor, who checks that:
+    <ul>
+      <li>The theme is in line with the one of the call</li>
+      <li>All the guidelines for authors are formally respected</li>
+    </ul>
+  </li>
+  <li>The brief lands then on the desk of the Topic Editor(s), who check(s) that the topic is relevant, novel, conclusive</li>
+  <li>The brief is sent to at least 1 reviewer (best practice 2), who has 15 days to carry out the review</li>
+  <li>The authors receive the review(s) and have 15 days to deliver the revised brief</li>
+  <li>The reviewer(s) check the revisions and, if needed, 6 &amp; 7 are repeated</li>
+  <li>The Topic Editor(s) accept the final version of the brief</li>
+  <li>The brief goes to proof-reading and the authors are potentially asked to make the last minor (language) edits to the manuscript in a very short time (within 48 hours)</li>
+  <li>The brief is published on the pre-print platform</li>
+</ol>
+
+<h1 id="useful-resources">Useful resources</h1>
+
+<ul>
+  <li>Canada’s International Development Research Centre, a <a href="https://www.idrc.ca/en/how-write-policy-brief">guide for writing policy briefs</a></li>
+</ul>]]></content><author><name>Francesco Gardumi</name></author><category term="output" /><summary type="html"><![CDATA[Briefings are short and accessible knowledge outputs that condense science into key messages and are used by a specific target audience. An example of this is a policy brief which summarises key messages relevant for policy makers.]]></summary></entry><entry><title type="html">Reports and Working Papers</title><link href="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/24/report.html" rel="alternate" type="text/html" title="Reports and Working Papers" /><published>2022-03-24T00:00:00+00:00</published><updated>2022-03-24T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/24/report</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/24/report.html"><![CDATA[<p>Reports communicate final research findings to different policy end-users or even general audiences.
+Working papers are unreviewed live documents that are shorter than reports,
+and have a similar structure to a scientific article.</p>
+
+<p>Reports contrast with scientific articles by providing more detail on the analysis performed,
+thus being typically longer (e.g. over 20 pages) while being easily readable by non-expert audiences.
+When reports are too long (e.g. more than 50 pages), a summary report may need to be produced.</p>
+
+<p>Working papers are a midway version of a report and a scientific article. They are shorter than reports and have similar structures to scientific papers.
+However, they are not peer-reviewed, should be understood as live documents which can be subject to change, and should be clear to researchers and non-researchers.</p>
+
+<p>In this post, the focus is given to reports, although most aspects mentioned are applicable to working papers.</p>
+
+<h2 id="writing-a-report-or-working-paper">Writing a Report or Working Paper</h2>
+
+<p>Reports follow a standard structure <a href="https://www.nespthreatenedspecies.edu.au/media/eb1d1aq2/science-for-policy-guidelines-report_v13.pdf" title="R. Morgain and R. Robbins, Connecting research with policy: TSR Hub guide to writing for policy-makers, National Environmental Science Program Threatened Species Recovery Hub, 2019.">(Morgain &amp; Robbins, 2019)</a>:</p>
+
+<ul>
+  <li>Executive Summary</li>
+  <li>Actions and Recommendations</li>
+  <li>Main content
+    <ul>
+      <li>introduction</li>
+      <li>topical chapters</li>
+      <li>conclusions</li>
+    </ul>
+  </li>
+  <li>References and Appendixes</li>
+</ul>
+
+<p>The first two sections communicate the key findings, implications, and analysis recommendations.
+They should be concise, objective, and tailored to the report’s target audience. If the report is tailored to policymakers, methodologies and technical information
+can be presented in Annex or as an additional report.</p>
+
+<h3 id="authoring-and-editing">Authoring and Editing</h3>
+
+<p>Reports can have a long list of authors and contributors.
+If the author list is long, main authors are defined and responsible for the report’s core writing.
+The main authors engage with other contributors for specific inputs.
+Institutions that commissioned the reports, are usually responsible for the editing role and the
+report writing coordination.
+To clarify authorship and contributions, follow the practice of <a href="/guidelines/practice/2022/02/01/attribution.html">attribution</a>.
+As in scientific articles, a section on acknowledgements can be included
+to recognise other relevant contributions to the analysis or to the report elaboration (e.g. review).</p>
+
+<h3 id="writing-and-reviewing">Writing and reviewing</h3>
+
+<p>The report writing process can be organised in different ways.
+An example is the definition of the scope of the report and the elaboration of an outline draft
+which is discussed among authors, contributors and main stakeholders.
+The drafting of the main report body follows, as well as the identification of key insights
+and preliminary actions and recommendations.
+In terms of writing style, plain English facilitates understanding of the text and gets the message across more easily.</p>
+
+<p>The first draft is then reviewed by the key stakeholders and institutional partners and can even be discussed with a broader group involved in the analysis.
+After this first review round, the authors revise the report, which can implicate changes in the analysis.
+The second review round follows, and should involve the same partners as in the first review but can be extended to wider audiences.
+After review completion, the report is updated, and a final version is then circulated among the target audience.
+The time for report writing, and review rounds, should be included in the project timeline.</p>
+
+<h3 id="publishing-and-disseminating">Publishing and disseminating</h3>
+
+<p>Authors and project partners should also decide if and how the report versions are made available among the project team and the public, such as publishing pre-prints (e.g. on Research Square) of report versions and/or of the final draft.
+Supporting documentation can be made available through repositories (such as GitHub) or other pre-prints if an additional report, or the annexes, are to be published separately from the main report.
+Dataset can be made available through e.g. Zenodo.
+Digital Object Identifiers (DOIs) should be generated for the report and all the relevant outputs.</p>
+
+<h2 id="related-practices">Related Practices</h2>
+
+<p>You may be interested in the following relevant practices for publishing reports or working papers.</p>
+
+<h3 id="pre-registration-of-research-protocols">Pre-Registration of Research Protocols</h3>
+
+<p>It may be appropriate to consider registering or publishing the research protocol.</p>
+
+<p>Find more about the <a href="/guidelines/practice/2022/03/23/preregistration.html">pre-registration practice</a></p>
+
+<h3 id="licensing">Licensing</h3>
+
+<p>Reports and working papers should be released under an open license, such as a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0</a>,
+which stipulates the terms under which the content can be used and the authors attributed.</p>
+
+<p>Find more about the <a href="/guidelines/practice/2022/03/01/licensing.html">license practice</a></p>
+
+<h3 id="attribution">Attribution</h3>
+
+<p>Reports can have a long list of authors and contributors.
+Using the Contributor Roles Taxonomy allows a range of different contributions to be recognised.</p>
+
+<p>Read more about the <a href="/guidelines/practice/2022/02/01/attribution.html">attribution practice</a></p>
+
+<h3 id="metadata">Metadata</h3>
+
+<p>Any publication should be accompanied with machine-readable metadata which describes the authors, license
+and other crucial information.
+This allows the publication to be found in search results, re-used in accordance with the license,
+and correctly cited.</p>
+
+<p>Find more about the <a href="/guidelines/practice/2022/03/13/metadata.html">metadata practice</a></p>
+
+<h3 id="referencing">Referencing</h3>
+
+<p>Original sources of images, graphs and other media, as well as concepts directly reported must be properly documented and cited.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/18/referencing.html">Referencing practice</a></p>
+
+<h3 id="version-control">Version Control</h3>
+
+<p>For very complicated or technical documents, it may be useful to adopt a convention for versioning the document
+as it is worked upon, or using a version control system to assist collaboration on the text.</p>
+
+<p>Read more about the <a href="/guidelines/practice/2021/01/01/version-control.html">version control practice</a></p>
+
+<h2 id="useful-resources-for-writing">Useful resources for writing</h2>
+
+<p>For tips on how to write in <a href="http://www.plainenglish.co.uk/how-to-write-in-plain-english.html">plain English</a> and
+for general advice on writing for <a href="https://www.gov.uk/guidance/content-design/writing-for-gov-uk">varied audiences</a>.</p>
+
+<hr />
+<p>This material is derived from the <a href="https://doi.org/10.5281/zenodo.5911546" title="Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546">CCG review of good enough practices</a>, released under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a>.</p>]]></content><author><name>Eunice Pereira Ramos</name></author><category term="output" /><summary type="html"><![CDATA[Reports communicate final research findings to different policy end-users or even general audiences. Working papers are unreviewed live documents that are shorter than reports, and have a similar structure to a scientific article.]]></summary></entry><entry><title type="html">Teaching material</title><link href="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/teaching-material.html" rel="alternate" type="text/html" title="Teaching material" /><published>2022-03-23T00:00:00+00:00</published><updated>2022-03-23T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/teaching-material</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/teaching-material.html"><![CDATA[<p>Teaching material consists of text, presentations, media and exercises developed within the context of higher education courses and training programs.</p>
+
+<p>Teaching material is seen as a <em>living output</em>, which is constantly updated and reshaped by teachers for the purposes of different courses and trainings, and to adapt to different audiences.
+An instance (i.e. snapshot) of a set of material used at a certain point in time by one teacher for a specific occasion is a <em>release</em> or final output.</p>
+
+<p>With knowledge development and sharing becoming more prominent in the advance towards climate compatible growth globally, institutions worldwide produce ever larger sets of teaching material. If not properly shaped, these will sit within the institution’s boundaries, with limited reach outside of the program they are intended for, and will quickly become outdated.</p>
+
+<h2 id="emerging-concepts-around-teaching">Emerging concepts around teaching</h2>
+
+<p>The education landscape is changing dramatically. Focus in the pedagogical practice is rapidly shifting towards active and deep learning. The importance of active learning is underlined by <a href="https://unesdoc.unesco.org/ark:/48223/pf0000247444">UNESCO</a>, which highlights that only active learning can lead to the development of skills and competencies. Competencies include: system thinking, anticipatory, normative, strategic, collaboration, critical thinking, self-awareness and integrated problem-solving.</p>
+
+<p>In the teaching practice, therefore, attention is given to ‘what the student does’, rather than ‘what the teacher does’, as in <a href="https://www.tandfonline.com/doi/abs/10.1080/0729436990180105">Biggs</a>. Teaching and learning are not seen in isolation, but rather as a teaching-learning binomium. A ‘class’ becomes a teaching-learning occasion. The teacher becomes a facilitator, who must ensure there is 1) teacher’s, 2) social and 3) cognitive presence in the learning practice, as in <a href="https://link.springer.com/article/10.1007/s11528-019-00375-5">Hrastinski</a>.</p>
+
+<p>With the proliferation of digital means, there is a huge opportunity for online and hybrid education to enable the development of skills and competences as intended by UNESCO. Such development, importantly, will not happen only in traditional educational settings (e.g. academia), but also beyond, leading to so-called lifelong learning.</p>
+
+<h3 id="e-learning">E-learning</h3>
+
+<p>There are several examples of e-learning environments, such as Coursera or OpenLearn Create by the Open University (the latter based on Moodle learning environment). The courses consist of theory (in the form of written material and/or videos) and practice (hands-on exercises, quizzes, self-evaluation practices). The students can take the courses at their own pace and obtain certificates upon completion. There is normally no interaction with the teachers. The way the learning material for the courses has been created can vary. Some key common features in e-learning material are:</p>
+
+<ul>
+  <li>Modularity</li>
+  <li>Presence of info-graphics</li>
+  <li>Short videos</li>
+  <li>Exercises (with ex-post correct answers and explanations for self-evaluation)</li>
+  <li>Availability in several languages</li>
+</ul>
+
+<h3 id="e-teaching">E-teaching</h3>
+
+<p>There are good examples of open-licensed courses and lectures, but these are normally made available by well-meaning and enthusiastic individuals, rather than cross-institutional teams.
+Fully open and collaborative environments for the development of courses, such as <a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page">Wikiversity</a>, do exist, though they do not provide a learning environment similar to that of Moodle, on which OpenLearn Create is built.
+The heavily curated teaching materials provided by Software Carpentry provide an example of best practice of Open Teaching Material. Software Carpentry designs numerous interactive and hands-on courses that are designed for self-learning and in-classroom or hybrid teaching. Software Carpentry also offers the service of workshops upon request, online or hybrid.
+The material is freely accessible, fully documented and continuously updated and structured in a way that allows gradual upgrade of skills at own pace (i.e. designed for lifelong learning). Due to the open <a href="/guidelines/practice/2022/03/01/licensing.html">license</a> of the material, others are free to make use of the learning material in their own right. For example, the Nordic-based CodeRefinery has based its own courses on the Software Carpentry material.
+The material is developed and prepared in GitHub following precise <a href="/guidelines/practice/2022/03/18/workflow.html">workflows</a> , but it is rendered as webpages for learners. Full <a href="/guidelines/practice/2022/03/18/referencing.html">references</a> and instructor notes are available for each lesson. The development of a lesson is conducted collaboratively using the features available through the git <a href="/guidelines/practice/2021/01/01/version-control.html">version control</a> software, and social tools on Github. The Github issue tracker is used to record ideas and suggestions and receive feedback from learners. Pull requests are used to discuss and review new contributions. <a href="/guidelines/practice/2022/01/01/release.html">Releases</a> are used to publish completed versions of the lesson to the webpage, including <a href="/guidelines/practice/2022/03/13/metadata.html">metadata</a> and <a href="/guidelines/practice/2022/02/01/attribution.html">attributions</a>.</p>
+
+<h2 id="developing-teaching-material">Developing teaching material</h2>
+
+<p>Developing teaching material in a collaborative fashion can increase the reach of the courses, their uptake by teachers and trainers worldwide, the depth of review, the efficiency of update.
+Creating or updating text, lecture modules, lectures, courses, hands on exercises etc. online in common repositories accessible by teachers from any institution can enable collaborative development.
+To this end, the material shall preferably sit outside of the learning management system of one specific institution, licensed and attributed at any instance of its use. The update and upload of material does not need to be dynamic and/or live, but it benefits from being version-controlled. Following these principles will make the teaching material community-based, retrievable and reusable (that is, compliant with <a href="https://www.researchsquare.com/article/rs-311311/v1">U4RIA-goals</a>).</p>
+
+<p>Key for enabling the collaborative development of teaching material is that it has at least (but not necessarily only) the following attributes</p>
+
+<ul>
+  <li>Open-licensed</li>
+  <li>Available online</li>
+  <li>Editable</li>
+  <li>Modular</li>
+  <li>Versioned</li>
+</ul>
+
+<p>Other characteristics that are highly desirable are:</p>
+
+<ul>
+  <li>Availability in several languages</li>
+  <li>Availability of metadata including:
+    <ul>
+      <li>authorship and attribution</li>
+      <li>acknowledgments of funding</li>
+      <li>collaboration and review</li>
+      <li>license;</li>
+    </ul>
+  </li>
+  <li>metadata associated to all media and info-graphics</li>
+  <li>Availability as plain text + collection of media and metadata (with no template)</li>
+</ul>
+
+<h3 id="example-of-teaching-learning-material-from-an-openlearn-create-collection">Example of teaching-learning material from an OpenLearn Create Collection</h3>
+
+<p>Partners in the Climate <a href="https://climatecompatiblegrowth.com/">Compatible Growth program</a> have created a collection of free and open access courses on Modelling Tools for Sustainable Development. These courses apply best practices for e-learning material and practices that allow for collaborative course development as follows:</p>
+
+<ul>
+  <li><strong>Open access license</strong>: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a> on all the course material; every piece of media (figure, graph, or video) is also licensed with CC BY 4.0 license or more permissive ones and attributed;</li>
+  <li><strong>Available online</strong>: the source material is gradually being made available on a public <a href="https://github.com/ClimateCompatibleGrowth">GitHub repository</a>;</li>
+  <li><strong>Editable</strong>: for newly created courses, the source material is editable through the GitHub repository, to different degrees (e.g. by submitting issues or directly by submitting pull requests); for courses that were existing and mostly based on .pptx presentations, the source material is editable in .pptx;</li>
+  <li><strong>Modular</strong>: each course is divided into lectures; each lecture is constituted of 4 modules; each module presents 5 concepts of 150-300 words each and a list of references; at the end of each lecture, a multiple-choice quiz with automatic proofing tests the understanding of the student and gives feedback when the questions are answered;</li>
+  <li><strong>Versioned</strong>: GitHub provides automatic version control; under development: twice a year, an instance of the course, corresponding to a certain commit, is going to be published on Open University’s <a href="https://www.open.edu/openlearncreate/course/index.php?categoryid=541">OpenLearn Create platform</a>;</li>
+  <li><strong>Availability as plain text + collection of media and metadata</strong>: for new courses, especially, the lecture modules are created as collections of Markdown files (for the text), folders with the media, and files with all metadata. These are then to be automatically rendered into other formats as needed. This is done to allow easier storing of the material, tracking of changes, versioning, and automatic bundling of different contents without having to deal with multiple versions of .pptx or .docx files.</li>
+</ul>
+
+<h2 id="related-practices">Related practices</h2>
+
+<p>You may be interested in the following relevant practices for teaching material.</p>
+
+<h3 id="licensing">Licensing</h3>
+
+<p>All teaching material meant to be open access must always be associated with a license, to clarify what are the legal restrictions (if any) in using, sharing and/or modifying the teaching material. All images, graphs, media included in the material must be included with their original license. If new images or graphs are created, they need to be licensed individually. The license that applies to the entire set of material must not be more permissive than the license that applies to any single piece included in it.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/01/licensing.html">Licensing Practice</a></p>
+
+<h3 id="workflow">Workflow</h3>
+
+<p>Workflows help with executing, reusing and reproducing, as well as reporting all steps needed to create and update teaching material.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/18/workflow.html">Workflow practice</a></p>
+
+<h3 id="version-control">Version control</h3>
+
+<p>Version control keeps track of changes and modifications to the teaching material, ensures that each new modification is traceable through a unique ID and allows the teachers to move seamlessly between versions (current and past), with no risk of losing information.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2021/01/01/version-control.html">Version Control practice</a></p>
+
+<h3 id="metadata">Metadata</h3>
+
+<p>Metadata provides a basic set of information meant to support the retrievability of specific outputs and their correct citation.</p>
+
+<p>Metadata for teaching material must include the following:</p>
+
+<ul>
+  <li><a href="#attribution">Attributions</a> (who the authors/contributors are, who did the work on creating, reviewing, revising, updating the teaching material)</li>
+  <li><a href="#licensing">Licensing</a> clarifying under what conditions/rules the teaching material can be used/modified/shared, etc.</li>
+</ul>
+
+<p>In addition, metadata should also include the following:</p>
+<ul>
+  <li><a href="#referencing">Referencing</a> to source material, to provide information regarding where the concepts, quotes, images or other contents come from.</li>
+</ul>
+
+<p>Finally, descriptive tags may be added to each piece of teaching material,
+to allow its faster identification among the larger set of material and to enable new users to filter out and reuse it.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/13/metadata.html">Metadata practice</a></p>
+
+<h3 id="referencing">Referencing</h3>
+
+<p>Original sources of images, graphs and other media, as well as concepts directly reported must be properly documented and cited.</p>
+
+<p>For more information, see the <a href="">Referencing practice</a></p>
+
+<h3 id="attribution">Attribution</h3>
+
+<p>All contributors i.e. people involved in creating, reviewing, revising, updating the teaching material - must be acknowledged, including their affiliation and, if applicable, ORCID (see <a href="https://orcid.org/">orcid.org</a>)</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/02/01/attribution.html">Attribution practice</a></p>
+
+<h3 id="release">Release</h3>
+
+<p>Semantic versioning can be used to identify different versions of a piece of teaching material (e.g. an exercise that is revised every year can be successively published as version <code class="language-plaintext highlighter-rouge">1.0</code>, <code class="language-plaintext highlighter-rouge">2.0</code>, <code class="language-plaintext highlighter-rouge">3.0</code> after each annual major revision).</p>
+
+<p>Releases must always be associated with a license and a unique identifier (e.g. DOI).
+A unique identifier will be associated with one and only one release (i.e. instance of the material).
+The unique identifier can be used to cite and attribute the teaching material.
+In order to obtain a unique identifier, the authors may upload each part of the material on knowledge repositories such as Zenodo.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/01/01/release.html">Release practice</a></p>
+
+<h1 id="useful-resources">Useful resources</h1>
+
+<ul>
+  <li><a href="https://www.open.edu/openlearncreate/course/index.php?categoryid=528">Climate Compatible Growth OpenLearn Collection of courses</a></li>
+  <li><a href="https://unesdoc.unesco.org/ark:/48223/pf0000247444">UNESCO, Education for Sustainable Development Goals: Learning Objectives</a></li>
+  <li><a href="https://www.researchsquare.com/article/rs-311311/v1">Howells, M., et al., 2021. Energy system analytics and good governance-U4RIA goals of Energy Modelling for Policy Support</a></li>
+</ul>]]></content><author><name>Francesco Gardumi</name></author><category term="output" /><summary type="html"><![CDATA[Teaching material consists of text, presentations, media and exercises developed within the context of higher education courses and training programs.]]></summary></entry><entry><title type="html">Software</title><link href="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/software.html" rel="alternate" type="text/html" title="Software" /><published>2022-03-23T00:00:00+00:00</published><updated>2022-03-23T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/software</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/software.html"><![CDATA[<p>Scientific software can be published openly to allow others to reproduce your work,
+extend and build upon your code, and identify bugs or enhancements.</p>
+
+<p>Research Software is defined in <a href="https://doi.org/10.5281/zenodo.5504016" title="Gruenpeter, Morane, Katz, Daniel S., Lamprecht, Anna-Lena, Honeyman, Tom, Garijo, Daniel, Struck, Alexander, Niehues, Anna, Martinez, Paula Andrea, Castro, Leyla Jael, Rabemanantsoa, Tovo, Chue Hong, Neil P., Martinez-Ortiz, Carlos, Sesink, Laurents, Liffers, Matthias, Fouilloux, Anne Claire, Erdmann, Chris, Peroni, Silvio, Martinez Lavanchy, Paula, Todorov, Ilian, &amp; Sinha, Manodeep. (2021). Defining Research Software: a controversial discussion (Version 1). Zenodo. https://doi.org/10.5281/zenodo.5504016">Gruenpeter et al. 2021</a> as:</p>
+
+<blockquote>
+  <p>“…source code files, algorithms, scripts, computational workflows
+and executables that were created during the research process or for a research purpose.
+Software components (e.g., operating systems, libraries, dependencies, packages, scripts,
+etc.) that are used for research but were not created during or with a clear research intent
+should be considered software in research and not Research Software. This differentiation
+may vary between disciplines.”</p>
+</blockquote>
+
+<p><a href="https://doi.org/10.15497/RDA00068" title="Chue Hong, N. P., Katz, D. S., Barker, M., Lamprecht, A-L, Martinez, C., Psomopoulos, F. E., Harrow, J., Castro, L. J., Gruenpeter, M., Martinez, P. A., Honeyman, T., et al. (2022). FAIR Principles for Research Software version 1.0. (FAIR4RS Principles v1.0). Research Data Alliance. DOI: https://doi.org/10.15497/RDA00068">Chue Hong et al. (2022)</a> have developed an application of the FAIR principles to research
+software. The principles are reproduced below.</p>
+
+<h3 id="findable">Findable</h3>
+
+<p>Software, and its associated metadata, is easy for both humans and machines to find.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sub-Principle</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>F1.</td>
+      <td>Software is assigned a globally unique and persistent identifier.</td>
+    </tr>
+    <tr>
+      <td>F1.1.</td>
+      <td>Components of the software representing levels of granularity are assigned distinct identifiers.</td>
+    </tr>
+    <tr>
+      <td>F1.2.</td>
+      <td>Different versions of the software are assigned distinct identifiers.</td>
+    </tr>
+    <tr>
+      <td>F2.</td>
+      <td>Software is described with rich metadata.</td>
+    </tr>
+    <tr>
+      <td>F3.</td>
+      <td>Metadata clearly and explicitly include the identifier of the software they describe.</td>
+    </tr>
+    <tr>
+      <td>F4.</td>
+      <td>Metadata are FAIR, searchable and indexable.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="accessible">Accessible</h3>
+
+<p>Software, and its metadata, is retrievable via standardized protocols.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sub-Principle</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A1.</td>
+      <td>Software is retrievable by its identifier using a standardized communications protocol.</td>
+    </tr>
+    <tr>
+      <td>A1.1.</td>
+      <td>The protocol is open, free, and universally implementable.</td>
+    </tr>
+    <tr>
+      <td>A1.2.</td>
+      <td>The protocol allows for an authentication and authorization procedure, where necessary.</td>
+    </tr>
+    <tr>
+      <td>A2.</td>
+      <td>Metadata are accessible, even when the software is no longer available.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="interoperable">Interoperable</h3>
+
+<p>Software interoperates with other software by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sub-Principle</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>I1.</td>
+      <td>Software reads, writes and exchanges data in a way that meets domain-relevant community standards.</td>
+    </tr>
+    <tr>
+      <td>I2.</td>
+      <td>Software includes qualified references to other objects.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="reproducible">Reproducible</h3>
+
+<p>Software is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sub-Principle</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>R1.</td>
+      <td>Software is described with a plurality of accurate and relevant attributes.</td>
+    </tr>
+    <tr>
+      <td>R1.1.</td>
+      <td>Software is given a clear and accessible license.</td>
+    </tr>
+    <tr>
+      <td>R1.2.</td>
+      <td>Software is associated with detailed provenance.</td>
+    </tr>
+    <tr>
+      <td>R2.</td>
+      <td>Software includes qualified references to other software.</td>
+    </tr>
+    <tr>
+      <td>R3.</td>
+      <td>Software meets domain-relevant community standards.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="related-practices">Related Practices</h2>
+
+<p>You may be interested in the following relevant practices for scientific software.</p>
+
+<h3 id="release">Release</h3>
+
+<p>When developing software, the code is a living document which is under constant development.
+Because code under development is constantly changing,
+it can be confusing for those who wish to use the software to reproduce a specific result.</p>
+
+<p>A software release is a specific instance or distribution of a collection of source code or a compiled programme.
+A software release points to a specific instance of the software.
+A software release can be archived, cited and used to support reproducible research.
+A software release supports many of the practices of Open Science.</p>
+
+<p>Read more about the <a href="/guidelines/practice/2022/01/01/release.html">release practice</a></p>
+
+<h3 id="version-control">Version control</h3>
+
+<p>Many research teams that develop scientific software work with version control such as Git and Github.
+A version control system tracks all the changes that you make and allows to also revert back to older versions. The version control system also allows for collaborative work as each contributor/author can create an own “branch” and develop new code. The new code can be reviewed and compared to the other developments and “merged” to the main branch if the new development is accepted. When the code is ready and tested it can be released.</p>
+
+<p>Read more about the <a href="/guidelines/practice/2021/01/01/version-control.html">version control practice</a></p>
+
+<h3 id="license">License</h3>
+
+<p>When releasing a software it is important to include a license from the very beginning.
+There are many different licenses that may be appropriate.</p>
+
+<p>Find more about the <a href="/guidelines/practice/2022/03/01/licensing.html">license practice</a></p>
+
+<h3 id="metadata">Metadata</h3>
+
+<p>Metadata is “data about the data” meaning that it describes the context, quality and condition of a e.g. dataset.
+The motivation to use metadata in software are because they are machine readable, so the software release can be indexed (e.g. on PyPI, or Zenodo) which makes it <a href="https://www.go-fair.org/fair-principles/">findable</a>.
+Metadata follow a different standard depending on where the software is released.</p>
+
+<p>Find more about the <a href="/guidelines/practice/2022/03/13/metadata.html">metadata practice</a></p>
+
+<h3 id="attribution">Attribution</h3>
+
+<p>To make sure that the right people who has contributed to the software development are properly attributed one good practice is that the authors for each script can be added on the top of the file. If documentation software such as <a href="https://www.sphinx-doc.org/en/master/index.html">Sphinx</a> is used then, if the metadata is added on the top of the file in a certain format, it will be added to the documentation file.
+If the code is collaboratively developed on Github then each author that commits to the main branch will be added as a contributor to the code. If the code is <a href="https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository">released</a> the contributors to the Github repository will be added as contributors/authors to that release.</p>
+
+<p>Read more about the <a href="/guidelines/practice/2022/02/01/attribution.html">attribution practice</a></p>
+
+<h2 id="example-of-scientific-software---pypsa">Example of scientific software - PyPSA</h2>
+
+<p><a href="https://github.com/PyPSA/pypsa-eur">The PyPSA-Eur: An Open Optimisation Model of the European Transmission System</a> is a good example of how to manage scientific software.
+The software is a workflow is written in Python and executed using Snakemake.
+The source code is held under version control and publishing on Github under an open license.
+Each release is deposited on Zenodo where it is ascribed a DOI.
+In addition the software is documented in a short academic paper which is also archived as a pre-print in arxiv.</p>
+
+<hr />
+
+<p>This material is derived from the <a href="https://doi.org/10.5281/zenodo.5911546" title="Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546">CCG review of good enough practices</a>, released under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a></p>]]></content><author><name>Nandi Moksnes</name></author><category term="output" /><summary type="html"><![CDATA[Scientific software can be published openly to allow others to reproduce your work, extend and build upon your code, and identify bugs or enhancements.]]></summary></entry><entry><title type="html">Blog Posts, Newsletters &amp;amp; Social Media</title><link href="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/social-media.html" rel="alternate" type="text/html" title="Blog Posts, Newsletters &amp;amp; Social Media" /><published>2022-03-23T00:00:00+00:00</published><updated>2022-03-23T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/social-media</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/23/social-media.html"><![CDATA[<p>Open and reproducible research can benefit from being communicated to a broad audience through social media, blog posts and newsletters.</p>
+
+<p>These types of communication are informal, and typically published directly by the writer without little or no  editorial processing.
+The target audience thereby differs from that of journal articles and other formal publishing or research communications.
+Good enough practice for publishing blog posts, tweets etc. therefore differ from those for formal scientific communication.</p>
+
+<p>In the next section you find pointers useful to consider in when using different social media channels: newsletters and blog posts on the one hand, and social media (such as <a href="https://www.linkedin.com/">LinkedIn</a> and <a href="https://twitter.com/">Twitter</a>) on the other.
+Following this, are some common practices for various types of social media dissemination.</p>
+
+<h2 id="newsletter-and-blog-posts">Newsletter and blog posts</h2>
+
+<ul>
+  <li>In a <strong>newsletter</strong>, summarize the research ‘news’ in a <a href="https://the-turing-way.netlify.app/communication/lay-summaries.html">Lay Summary</a>. Link and reference to the original work, and give attributions to contributors.</li>
+  <li>In a <strong>blog post</strong>, you can write a longer popular science summary of the research, or describe some aspects of it – e.g. a case example, an impact it is already showing, or a story on where and how it was presented. Link and reference to the original work, and give attributions to contributors.</li>
+  <li>In newsletters and blogs ensure there is continuity. A blog with only one blog post is less efficient in communication than a blog where new blog posts are added every so often. The same goes for newsletters. It may be better to find or create a newsletter or blog with a broader scope, if news are regularly posted there. Include blog maintenance time in your plan to ensure that comments are answered and new blog posts/newsletters are published at the frequency you want.</li>
+</ul>
+
+<h2 id="social-media">Social media</h2>
+
+<p>Here, the purpose is to ping on the radar of a big audience, and make sure relevant stakeholders and interest groups notice your research. Therefore:</p>
+
+<ul>
+  <li>Go for short key messages, and insert a link to a blog post that describes the work in more detail (preferably) and/or to the original journal article/research output.</li>
+  <li>‘Mention’ contributors by naming them with links to their relevant social media profiles (important for both attribution and broader reach).</li>
+  <li>Add relevant, subject-specific #hashtags, for example to the project or program that the work is part of, but also to topics that have established hashtags on the social media channel and are subject to living discussions or trending topics (obs: that are relevant).</li>
+</ul>
+
+<p>Note that some audiences, such as certain interest groups or people in a specific location/profession/etc. are more important to target than others. The tweet that is seen by the largest (general) audience may not always be the one that is most impactful. Having your posts shared or re-tweeted by key members, or in important groups can be an effective way to reach a wide audience. Being active on the social media channels where you want to use, interacting with relevant people there, including re-sharing their content (that is of relevance to you and your work) can therefore be a helpful practice “in-between” your own postings.</p>
+
+<h2 id="related-practices">Related practices</h2>
+
+<p>You may be interested in the following relevant practices for blogs, newsletters and social media.</p>
+
+<p>Using social media, newsletters and blogs to communicate your research is valuable when you want to disseminate your work outside your scientific community. However, since everyone is editor of their own posts on social media, it is important to share content in a way that supports its reproducibility and protects its integrity.</p>
+
+<p>In these informal communications, use a less technical language, adapt your writing style to the audience and make it accessible to non-experts. Avoid jargon and abbreviations that are common within your discipline but not known outside your field of research.</p>
+
+<p>You don’t have to wait until the end to communicate.
+While journal articles report on completed research output,
+social media communication can be used to communicate during the project,
+to solicit stakeholders interest, and to increase collaboration.</p>
+
+<p><em>Be careful though, to not disclose scientific contributions before they are published as formal academic publications!</em></p>
+
+<h3 id="licensing">Licensing</h3>
+
+<p>Ensure the information shared is referenced correctly and that it is licensed under a <a href="https://creativecommons.org/about/cclicenses/">CC BY license</a> that dictates how you and others are allowed to use and share the material.</p>
+
+<p>This is particularly important for images and pictures, as they are often (re-)shared via social media potentially contravening a license - e.g. in the case of a plot or diagram taken from a paywalled publication.</p>
+
+<p>For more information, please refer to the <a href="/guidelines/practice/2022/03/01/licensing.html">Licensing practice</a></p>
+
+<h3 id="attribution">Attribution</h3>
+
+<p>Make sure all contributors are attributed fairly.
+This increases in importance the more comprehensive the material shared,
+e.g. more important in a blog post or newsletter than a tweet.
+In shorter formats, it is good practice to attribute to the contributors
+by adding links to their profiles on the social media platform of choice
+(e.g. LinkedIn, Twitter, Facebook).
+Attributing contributors there also helps to gain and provide visibility.</p>
+
+<p>For more information, please refer to the <a href="/guidelines/practice/2022/02/01/attribution.html">Attribution practice</a></p>
+
+<h3 id="referencing">Referencing</h3>
+
+<p>This is digital communication. Therefore, use hyperlinks to guide your readers to more information,
+and always to the original articles and open science outputs.</p>
+
+<p>For more information, please refer to the <a href="/guidelines/practice/2022/03/18/referencing.html">Referencing practice</a></p>
+
+<h2 id="useful-resources">Useful resources</h2>
+
+<p>From <a href="https://the-turing-way.netlify.app/welcome.html"><em>The Turing Way</em></a> handbook to reproducible, ethical and collaborative data science:</p>
+
+<ul>
+  <li>Section on research <a href="https://the-turing-way.netlify.app/communication/comms-overview.html">Communication</a> to wider audiences:
+    <ul>
+      <li>for <a href="https://the-turing-way.netlify.app/communication/blogs.html"><strong>Blogs</strong></a></li>
+      <li>for <a href="https://the-turing-way.netlify.app/communication/social-media.html"><strong>Social Media</strong></a></li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Rebecka Engström</name></author><category term="output" /><summary type="html"><![CDATA[Open and reproducible research can benefit from being communicated to a broad audience through social media, blog posts and newsletters.]]></summary></entry><entry><title type="html">Pre-registration of research protocols</title><link href="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/23/preregistration.html" rel="alternate" type="text/html" title="Pre-registration of research protocols" /><published>2022-03-23T00:00:00+00:00</published><updated>2022-03-23T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/23/preregistration</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/23/preregistration.html"><![CDATA[<p>Pre-registration makes a study less susceptible to bias, helps plan the research and provides an opportunity for peer feedback on the approach.</p>
+
+<p>When working on qualitative research, the preregistration of research protocols is recommended to ensure transparency, reproducibility and quality of the study [<a href="https://journal-buildingscities.org/articles/10.5334/bc.67/" title="G. M. Huebner, M. J. Fell, and N. E. Watson, ‘Improving energy research practices: 1067 guidance for transparency, reproducibility and quality’, Buildings and Cities, vol. 2, 1068 no. 1, pp. 1–20, Jan. 2021, doi: 10.5334/bc.67.">1</a>]. A preregistration of research protocols means that the researcher describes the research plan which will be undertaken and the type of analysis that are intended to be performed, before starting the study. This includes basic information such as study aims, type of data collection, tools used in the study and analysis approach.  The pre-registration of the research protocol also means that the analysis can not be adjusted to fit the collected data, thus avoiding potential sources of unintentional (or intentional) bias, and improving transparency and reproducibility.</p>
+
+<p>A preregistration helps to plan the study details and getting early input on the research, thus potentially enhancing the quality of the research conducted.</p>
+
+<p>The preregistration should be using standardised forms and registered <em>before</em> starting the research.</p>
+
+<p>Here there are some examples of generic preregistration forms that are applicable across different disciplines, as suggested by <a href="https://journal-buildingscities.org/articles/10.5334/bc.67/#T1n">Huebner et al. (2021)</a>:</p>
+<ul>
+  <li><a href="https://osf.io/prereg/">OSF Prereg</a></li>
+  <li><a href="https://aspredicted.org/">AsPredicted Preregistration</a></li>
+</ul>
+
+<hr />
+
+<p>This material is derived from the <a href="https://zenodo.org/record/5911546#.YjsSSRDMI-R" title="Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546">CCG review of good enough practices</a>, released under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a></p>]]></content><author><name>Nandi Moksnes</name></author><category term="practice" /><category term="ubuntu" /><category term="repeatability" /><category term="reusability" /><category term="reconstructability" /><category term="interoperability" /><category term="auditability" /><summary type="html"><![CDATA[Pre-registration makes a study less susceptible to bias, helps plan the research and provides an opportunity for peer feedback on the approach.]]></summary></entry><entry><title type="html">Workflow</title><link href="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/18/workflow.html" rel="alternate" type="text/html" title="Workflow" /><published>2022-03-18T00:00:00+00:00</published><updated>2022-03-18T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/18/workflow</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/18/workflow.html"><![CDATA[<p>A computational workflow records the automated steps to transform data and code into research outputs.</p>
+
+<p>Workflows help document and aid the reproduction (e.g. running) of the processes which are used for the following:</p>
+
+<ul>
+  <li>data collection</li>
+  <li>preparation, analysis and modelling</li>
+  <li>simulation of data (<a href="https://direct.mit.edu/dint/article/2/1-2/108/10003/FAIR-Computational-Workflows" title="Goble, C., Cohen-Boulakia, S., Soiland-Reyes, S., Garijo, D., Gil, Y., Crusoe, M.R., Peters, K., Schober, D., 2020. FAIR Computational Workflows, *Data Intelligence*, vol. 2, no. 1–2, 1135 pp. 108–121. DOI: 10.1162/dint_a_00033.">Gobel et al (2020)</a>)</li>
+</ul>
+
+<p>For example, a tool or a model can be considered a computational workflow, as they can support the data analysis.</p>
+
+<p><img src="https://user-images.githubusercontent.com/30128518/157625071-57a8a629-8319-4168-bc57-f92c4851b2ba.png" alt="Workflow" /></p>
+
+<p>Defining and creating a workflow can be divided into three stages.</p>
+
+<h3 id="stage-1">Stage 1</h3>
+
+<p>Identify and describe the process and steps needed to characterise the relationship between the data inputs and outputs.</p>
+
+<h3 id="stage-2">Stage 2</h3>
+
+<p>Collate the data, scripts and codes that are need to perform the tasks.
+Determine the sequence in which the scripts and codes are to be executed.</p>
+
+<h3 id="stage-3">Stage 3</h3>
+
+<p>Clearly define the different steps that need to be executed,
+so that the workflow can be easily implemented with tests to check that it is working properly.
+Tests will help to identify bugs and issues that could arise later on as the code is modified.
+Because the workflow is code, it can be held under <a href="/guidelines/practice/2021/01/01/version-control.html">version control</a>, and <a href="/guidelines/practice/2022/01/01/release.html">released</a>.</p>
+
+<p>There are several possible options to support and facilitate the work:</p>
+
+<ol>
+  <li>
+    <p>The simplest, but still useful, approach of documenting a workflow is to write down the sequence of steps required to reproduce the output in a text file or a readme, and share this with your data and code.</p>
+  </li>
+  <li>
+    <p>If the analysis is defined using the Python programming language, a <a href="https://jupyter.org/">Jupyter Notebook</a> (which allows for inserting comments along the script or code) can be used to describe the steps, execute functions and plot some of the results.
+This approach is attractive as the code is self-documenting - to reproduce the analysis, you run each cell in the notebook.</p>
+  </li>
+  <li>
+    <p>For generic computational workflows, <a href="https://snakemake.readthedocs.io/en/stable/">Snakemake</a> is a workflow management systems tool which can handle different programs.
+It executes the required steps (“rules”) through a Snakefile until the final output is obtained.
+A Snakemake workflow is scalable to server, cluster, grid and cloud environment without needing to modify the Snakefile.
+An advantage of this more advanced tool is that steps can be run in parallel, and Snakemake determines which steps need to be rerun when a source file is updated.</p>
+  </li>
+</ol>
+
+<h2 id="reproducible-and-fair">Reproducible and FAIR</h2>
+
+<p>When developing computational workflows your work become more reusable and reproducible for others and this in turn can help increasing collaboration. Well defined workflows contribute to the <a href="https://www.go-fair.org/fair-principles/">FAIR data</a> as they provide traceability of the results and data used to produce an output. If the workflow is complex then also time and energy can be saved by creating a workflow.</p>
+
+<h2 id="example-of-collaborative-workflow">Example of collaborative workflow</h2>
+
+<p>The <a href="https://github.com/PyPSA/pypsa-eur">PyPSA-Eur: An Open Optimisation Model of the European Transmission System</a> is a good example of how to work on collaborative workflows. The workflow is written in Python and executed using <a href="https://snakemake.readthedocs.io/en/stable/">snakemake</a>. Each release is deposited on Zenodo and ascribed a DOI. The documentation is available on <a href="https://pypsa.readthedocs.io/en/latest/">ReadTheDocs</a> and there is also guidance that helps users identify if the available data is suitable for their needs, together with links to find more information. Furthermore, is each release documented in a academic short paper and archived as a pre-print in arxiv.</p>
+
+<h2 id="useful-resources">Useful resources</h2>
+
+<p><a href="https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html">The Turing Way</a> handbook for reproducible, ethical and collaborative data science has a chapter covering workflows <a href="https://the-turing-way.netlify.app/reproducible-research/make.html">Make</a> which can be an additional useful resource.</p>
+
+<hr />
+<p><em>This material is derived from the <a href="https://doi.org/10.5281/zenodo.5911546" title="Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, &amp; Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546">CCG review of good enough practices</a>, released under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a>.</em></p>]]></content><author><name>Nandi Moksnes</name></author><category term="practice" /><category term="repeatability" /><category term="reusability" /><category term="reconstructability" /><category term="auditability" /><summary type="html"><![CDATA[A computational workflow records the automated steps to transform data and code into research outputs.]]></summary></entry><entry><title type="html">Referencing</title><link href="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/18/referencing.html" rel="alternate" type="text/html" title="Referencing" /><published>2022-03-18T00:00:00+00:00</published><updated>2022-03-18T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/18/referencing</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/18/referencing.html"><![CDATA[<p>Referencing is a formal process of acknowledging all sources of information or work from other authors that you used when creating any original material.</p>
+
+<p>Referencing consists of two parts: a citation and a reference.
+The citation is a note, a number, or an identifier of the source, within your work’s text that acknowledges other authors’ works in the relevant section.
+The reference expands on the citation and encompasses the source details that inform its location.</p>
+
+<h3 id="why-is-referencing-important">Why is referencing important?</h3>
+
+<p>Referencing is essential in producing your original work or research. It gives the readers supporting evidence of how widely you reviewed the topic and how you support your arguments. It also provides the location of the sources you mentioned in your work; as a result, you help fellow researchers locate the cited references easily.
+Importantly, it helps avoid plagiarism by acknowledging other authors’ work and ideas.</p>
+
+<h3 id="what-do-you-need-to-write-a-reference">What do you need to write a reference?</h3>
+
+<p>To add a reference, you need the bibliographic information of the source. Bibliographic information is the individual information used to describe and find a particular work, such as a book, journal article, or internet source. A reference should have four essential elements of bibliographic information: 1) the author or group of authors who created the work; 2) the year of publication; 3) title; and 4) where it was published. There are several ways of presenting the bibliographic information, known as “referencing style.”</p>
+
+<h3 id="reference-style">Reference style</h3>
+
+<p>There is a wide range of reference styles commonly used. Each style has its unique formatting guidelines. The selected style will depend on the requirements of a particular publication, such as books, magazines, or journal articles, to name a few. Also, the in-text citation will vary depending on the referencing style. The most common styles with simple examples for referencing are listed below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Style</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html">APA (American Psychological Association)</a></td>
+      <td><code class="language-plaintext highlighter-rouge">Singer, J. (1999, September). Using the American Psychological Association (APA) style guidelines to report experimental results. In Workshop on Empirical Studies in Software Engineering (WSESE 1999) (pp. 71-75).</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf">IEEE (The Institute of Electrical and Electronics Engineers)</a></td>
+      <td><code class="language-plaintext highlighter-rouge">[1] M. Howells et al., “OSeMOSYS: The Open Source Energy Modeling System,” Energy Policy, vol. 39, no. 10, pp. 5850–5870, Oct. 2011, doi: 10.1016/j.enpol.2011.06.033.</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://libguides.scu.edu.au/harvard">Harvard</a></td>
+      <td><code class="language-plaintext highlighter-rouge">Welsch, M., Howells, M., Bazilian, M., DeCarolis, J.F., Hermann, S. and Rogner, H.H. (2012). Modelling elements of Smart Grids – Enhancing the OSeMOSYS (Open Source Energy Modelling System) code. Energy, 46(1), pp.337–350.</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/vancouver.pdf">Vancouver</a></td>
+      <td><code class="language-plaintext highlighter-rouge">Dreier D, Howells M. OSeMOSYS-PuLP: A Stochastic Modeling Framework for Long-Term Energy Systems Modeling. Energies. 2019 Jan;12(7):1382.</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://libguides.mq.edu.au/referencing/Oxford#:~:text=Oxford%20style&amp;text=Notes%20are%20numbered%20sequentially%2C%20beginning,of%20publication%2C%20the%20page%20reference.">Oxford</a></td>
+      <td><code class="language-plaintext highlighter-rouge">Gardumi, F., M. Welsch, M. Howells and E. Colombo, 'Representation of Balancing Options for Variable Renewables in Long-Term Energy System Models: An Application to OSeMOSYS', Energies, 12/12 (2019), &lt; doi:10.3390/en12122366 &gt; accessed 14 March 2022, 2366.</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="reference-for-an-image">Reference for an image</h3>
+
+<p>Similar to journal articles and other types of publications that require referencing, images and figures need a reference to acknowledge the author. Each style has its unique formatting <a href="https://library.swtafe.edu.au/c.php?g=924083&amp;p=6672159">guidelines</a>. Commonly, in-text citations for images should include the author and date. A reference should include author, date, title, format, publisher, and URL.</p>
+
+<p>The license in an image states whether attribution is required. This means acknowledging the original author. This is the case for images under Creative Commons licenses. These <a href="https://creativecommons.org/choose/">licenses</a> indicate what you are allowed to do; for example, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> states that you must give attribution. Under such a license, you can share and adapt the material. The figure below shows an example of how to reference or give credit. Notice, in the caption, the title, author, and license have particular links to locate the original work, the author’s website/profile or otherwise, and license.</p>
+
+<p><img src="https://user-images.githubusercontent.com/55062734/160800411-aa5b4f70-91b6-4819-b292-1e3d78950e9e.png#center" alt="image" /></p>
+
+<p><em><a href="https://commons.wikimedia.org/wiki/File:Energy_demand.jpg">“Energy demand”</a> by <a href="https://commons.wikimedia.org/w/index.php?search=Herediar&amp;title=Special:MediaSearch&amp;go=Go&amp;type=image">Heredia Roberto</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+
+<h3 id="reference-software-and-dataset">Reference software and dataset</h3>
+
+<p>Often dataset and software are other sources and tools that have contributed to the research. As such, citing dataset and software help to support the <strong>reproducibility</strong> of your research, and it allows tracking the <strong>reuse</strong> of data and software. By referencing, you give credit and attribution to those who provided the dataset or developed software or apps.</p>
+
+<p>Style manuals can provide instructions regarding citations and references of software and data. Dataset providers, producers, and software developers can provide a recommended reference or supply an example (see examples 4 and 5).</p>
+
+<p>Referencing software is an evolving area <a href="https://www.software.ac.uk/how-cite-software" title="M. Jackson, How to cite and describe software | Software Sustainability Institute, (n.d.). https://www.software.ac.uk/how-cite-software (accessed March 30, 2022).">(Jackson, n.d.)</a>. A general guideline is that you should include similar components as any other reference; see the examples below. Cite and reference any software used and have contributed to your research. It is unnecessary to reference software used daily, such as Microsoft Office; instead, the software that played a significant role in your research.</p>
+
+<p>General bibliographic information</p>
+
+<p>Author/producer, date of publication/release year, dataset title, version, [subset used], publisher and/or distributor, access date, data locator/identifier(DOI or URL)</p>
+
+<p>Commonly, citing and referencing software and the associated journal paper are standard practices. However, citing only the paper raise problems. One is that software can have versions or releases happening at different timescales. Second, sometimes there is no associated paper with the software; for example, in packages or libraries. A good practice is to cite and reference the specific software version and the associate paper. Examples for referencing software and dataset are listed below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Output</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>dataset</td>
+      <td><code class="language-plaintext highlighter-rouge">Knutti, Reto (2014). IPCC Working Group I AR5 snapshot: The past1000 experiment. World Data Center for Climate (WDCC) at DKRZ. https://doi.org/10.1594/WDCC/ETHpk</code></td>
+    </tr>
+    <tr>
+      <td>dataset</td>
+      <td><code class="language-plaintext highlighter-rouge">Jay H. Lawrimore, Matthew J. Menne, Byron E. Gleason, Claude N. Williams, David B. Wuertz, Russell S. Vose, and Jared Rennie (2011): Global Historical Climatology Network - Monthly (GHCN-M), Version 3, [Indicate subset used]. NOAA National Centers for Environmental Information. https://doi.org/10.7289/V57P8W90  [access date].</code></td>
+    </tr>
+    <tr>
+      <td>dataset</td>
+      <td><code class="language-plaintext highlighter-rouge">Pappis, Ioannis, Sridharan, Vignesh, Usher, Will, &amp; Howells, Mark. (2019). JRC-TEMBA - African decarbonisation pathways (v0.1.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3521841</code></td>
+    </tr>
+    <tr>
+      <td>software</td>
+      <td><code class="language-plaintext highlighter-rouge">Mark Howells, Manuel Welsch, Constantinos Taliotis, Adrian Lefvert, Igor Tatarewicz, Tom Alfstad, Nawfal Saadi, Francesco Gardumi, Vignesh Sridharan, Agnese Beltramo, Nandi Moksnes, Taco Niet, Abhishek Shivakumar, Roberto Heredia Fonseca, Will Usher, &amp; Christoph Muschner. (2021). OSeMOSYS/OSeMOSYS_GNU_MathProg: OSeMOSYS v0.8.1 (v0.8.1). Zenodo. https://doi.org/10.5281/zenodo.5255610</code></td>
+    </tr>
+    <tr>
+      <td>software</td>
+      <td><code class="language-plaintext highlighter-rouge">R Core Team (2022). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. http://www.R-project.org/</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="reference-management-software">Reference Management Software</h3>
+
+<p>Nowadays, adding and managing citations and references has become more practical by using automatic referencing management software. These tools can 1) save you time when adding and managing references, a process that can be time-consuming, and 2) allow you to format the references correctly according to a specific style.
+Open tools exist in the pool of reference management software, and others require a commercial license. Selecting the programs/tools depends on your specific needs or can be influenced by choices adopted in your work team. Different management software is listed below.</p>
+
+<p><a href="https://endnote.com/">EndNote</a> is a commercial software.</p>
+
+<p><a href="https://clarivate.libguides.com/endnote_training/endnote_online">User manual</a></p>
+
+<p><a href="https://www.zotero.org/">Zotero</a> is free and open-source.</p>
+
+<p><a href="https://www.mendeley.com/?interaction_required=true">Mendeley</a> is web-based with a free local client.</p>
+
+<p>User manual <a href="https://www.mendeley.com/guides/mendeley-reference-manager/">(link)</a></p>
+
+<p>The scientific manuscrippt tool LateX has its own reference management software called
+<a href="https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex">BibTex/Biber/BibLateX</a></p>
+
+<hr />]]></content><author><name>Roberto Heredia</name></author><category term="practice" /><category term="retrievability" /><category term="repeatability" /><category term="reusability" /><category term="reconstructability" /><category term="auditability" /><summary type="html"><![CDATA[Referencing is a formal process of acknowledging all sources of information or work from other authors that you used when creating any original material.]]></summary></entry><entry><title type="html">Metadata</title><link href="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/13/metadata.html" rel="alternate" type="text/html" title="Metadata" /><published>2022-03-13T00:00:00+00:00</published><updated>2022-03-13T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/13/metadata</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/practice/2022/03/13/metadata.html"><![CDATA[<p>Metadata makes it possible for others to find your research,
+understand if they can use it,
+and then reference your work in their publications.</p>
+
+<p>Metadata is <a href="http://doi.org/10.1002/asi.24295" title="J. Furner, ‘Definitions of “Metadata”: A Brief Survey of International Standards’, Journal of the Association for Information Science and Technology, vol. 71, no. 6, Jun. 2020, doi: 10.1002/asi.24295.">“data about data”</a>.
+When publishing a research output, such as a dataset,
+metadata provides information that describes the “context, quality and condition” of the output.</p>
+
+<p>To support the retrievability of specific outputs,
+inclusion in indexes and their correct citation
+metadata should be both machine and human readable (<a href="https://www.go-fair.org/fair-principles/f2-data-described-rich-metadata/" title="GO FAIR, ‘F2: Data are described with rich metadata’, GO FAIR. https://www.go-fair.org/fair-principles/f2-data-described-rich-metadata/ (accessed Dec. 06, 2021).">GO FAIR, 2022</a>).</p>
+
+<p>Currently, there are several metadata standards already available for different knowledge domains.
+The most common is the <a href="https://www.dublincore.org/">Dublin Core Metadata Initiative (DCMI)</a>.</p>
+
+<p>To enable indexing of outputs and to use the metadata to “advertise” the output,
+it is important that metadata is in public domain (e.g. released under a CC-0 license).</p>
+
+<h3 id="metadata-and-the-fair-principles">Metadata and the FAIR principles</h3>
+
+<p>The <a href="http://doi.org/10.1038/sdata.2016.18" title="M. D. Wilkinson et al., ‘The FAIR Guiding Principles for scientific data management and stewardship’, Sci Data, vol. 3, no. 1, p. 160018, Mar. 2016, doi: 10.1038/sdata.2016.18.">FAIR principles</a> provide clear guidance on the importance of metadata for describing data.
+Metadata is directly mentioned in several of the sub-principles.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sub-Principle</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>F2</td>
+      <td>Data are described with rich <strong>metadata</strong> (defined by R1 below)</td>
+    </tr>
+    <tr>
+      <td>F3</td>
+      <td><strong>Metadata</strong> clearly and explicitly include the identifier of the data they describe</td>
+    </tr>
+    <tr>
+      <td>A2</td>
+      <td><strong>Metadata</strong> are accessible, even when the data are no longer available</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Metadata are data, and so the remainder of the FAIR principles also apply to the metadata itself:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sub-Principle</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>F1</td>
+      <td>(Meta)data are assigned a globally unique and persistent identifier</td>
+    </tr>
+    <tr>
+      <td>F4</td>
+      <td>(Meta)data are registered or indexed in a searchable resource</td>
+    </tr>
+    <tr>
+      <td>A1</td>
+      <td>(Meta)data are retrievable by their identifier using a standardised communications protocol</td>
+    </tr>
+    <tr>
+      <td>A1.1</td>
+      <td>The protocol is open, free, and universally implementable</td>
+    </tr>
+    <tr>
+      <td>A1.2</td>
+      <td>The protocol allows for an authentication and authorisation procedure, where necessary</td>
+    </tr>
+    <tr>
+      <td>I1</td>
+      <td>(Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.</td>
+    </tr>
+    <tr>
+      <td>I2</td>
+      <td>(Meta)data use vocabularies that follow FAIR principles</td>
+    </tr>
+    <tr>
+      <td>I3</td>
+      <td>(Meta)data include qualified references to other (meta)data</td>
+    </tr>
+    <tr>
+      <td>R1</td>
+      <td>(Meta)data are richly described with a plurality of accurate and relevant attributes</td>
+    </tr>
+    <tr>
+      <td>R1.1</td>
+      <td>(Meta)data are released with a clear and accessible data usage license</td>
+    </tr>
+    <tr>
+      <td>R1.2</td>
+      <td>(Meta)data are associated with detailed provenance</td>
+    </tr>
+    <tr>
+      <td>R1.3</td>
+      <td>(Meta)data meet domain-relevant community standards</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="applying-metadata-to-research-outputs">Applying Metadata to Research Outputs</h2>
+
+<p>Metadata can be stored in different ways.</p>
+
+<p>Deposits such as Zenodo, provide a web-based user-interface to enter metadata prior to uploading and publishing
+research outputs.</p>
+
+<p>Alternatively, metadata can be stored in text files in different formats.</p>
+
+<p>At the simplest level, this can be performed manually by including a file containing common metadata fields
+alongside your research output.
+However, this is unlikely to meet the requirements of being machine readable, although it could be very useful
+for human users of your output.</p>
+
+<p>A more comprehensive approach adopts existing metadata standards.
+For example, Zenodo-compatible metadata <a href="/guidelines/code/2021/12/16/add-zenodo-github.html" title="Add Zenodo metadata to a Github repository">can be added to a Github repository</a> in the form of a JSON file.
+If using Frictionless Data datapackages to manage data, then the metadata is also <a href="https://specs.frictionlessdata.io/data-package/#metadata">stored in a separate JSON</a>
+file which contains machine-readable information not only about contributors, licenses and description,
+but information about the structure of the data, data types and relations between the data.</p>
+
+<h2 id="further-reading">Further Reading</h2>
+
+<p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html#" title="The Turing Way: Documentation and Metadata">The Turing Way</a> describes the importance of metadata to enable understanding of data,
+and provide evidence of provenance and context.</p>
+
+<hr />
+<p>This material is derived from the <a href="http://doi.org/10.1002/asi.24295" title="J. Furner, ‘Definitions of “Metadata”: A Brief Survey of International Standards’, Journal of the Association for Information Science and Technology, vol. 71, no. 6, Jun. 2020, doi: 10.1002/asi.24295.">CCG review of good enough practices</a>, released under a <a href="https://www.go-fair.org/fair-principles/f2-data-described-rich-metadata/" title="GO FAIR, ‘F2: Data are described with rich metadata’, GO FAIR. https://www.go-fair.org/fair-principles/f2-data-described-rich-metadata/ (accessed Dec. 06, 2021).">CC-BY 4.0 license</a>.</p>]]></content><author><name>Will Usher</name></author><category term="practice" /><category term="ubuntu" /><category term="retrievability" /><category term="reusability" /><category term="interoperability" /><category term="auditability" /><summary type="html"><![CDATA[Metadata makes it possible for others to find your research, understand if they can use it, and then reference your work in their publications.]]></summary></entry><entry><title type="html">Data</title><link href="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/06/data.html" rel="alternate" type="text/html" title="Data" /><published>2022-03-06T00:00:00+00:00</published><updated>2022-03-06T00:00:00+00:00</updated><id>https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/06/data</id><content type="html" xml:base="https://climatecompatiblegrowth.github.io/guidelines/output/2022/03/06/data.html"><![CDATA[<p>Data can assume a wide range of types, including numerical data, text, audio and images,
+and form a fundamental resource for many research projects.
+Data are also a valuable research output in their own right,
+given the time taken in many research projects to find, collate and curate data.</p>
+
+<p>The <a href="https://docs.google.com/presentation/d/1nujmtGu6SpQg_dn918AXTgwok6kCynY_/edit#slide=id.p4" title="Viitanen E., 2022. Introduction to Research Data Management(RDM). *Aalto University*, Finland: Aalto. Available at: https://www.aalto.fi/en/services/training-in-research-data-management-and-open-science. (accessed: March 07, 2022)">process cycle</a> describes the use and management of data in a research project.</p>
+
+<p><img src="/guidelines/assets/img/DataCycle.png" alt="DataCycle" /></p>
+
+<p>Each of these steps are described briefly below.</p>
+
+<h3 id="planning">Planning</h3>
+
+<p>A data management plan (DMP) should be established in the form of a live document,
+to identify types of data and related formats that are expected to be used in the project.
+<a href="https://dmponline.dcc.ac.uk/">Data Management Plan templating tools</a> can be used to structure the plan.
+Research funders often require that a DMP is established during the proposal or project kick-off phases.</p>
+
+<h3 id="ethical-and-legal-compliance">Ethical and Legal Compliance</h3>
+
+<p>If either personal, sensitive data or confidential data are to be collected
+during the project, special attention should be given to ensure that legal and ethical issues are addressed in accordance with relevant regulations.
+This might include storing data on a secure platform, and that data are released (if at all) in an anonymous and secure way. More information available under <a href="#licensing">Licensing</a>.</p>
+
+<h3 id="organizing-and-documenting">Organizing and Documenting</h3>
+
+<p>Documents and data need to be organized in a way that can be understood and used by future colleagues or researchers.
+Several steps can be followed to better organize and document the data.
+These are listed in increasing difficulty, starting with the most straightforward:</p>
+
+<ul>
+  <li>Define a clear folder structure for your data</li>
+  <li>If using tabular data, try to reorganise data into “long format”</li>
+  <li>Add a <a href="#licensing">license</a> and a <a href="https://www.makeareadme.com/">readme file</a> to the folder</li>
+  <li>Organise the data file(s) into Frictionless Data <a href="https://specs.frictionlessdata.io/data-package/" title="Frictionless Data Package Standard">datapackage</a> by following their data standards and adding a detailed metadata file. The <a href="https://create.frictionlessdata.io/">Data Package Creator</a> provides easy-to-use templates to be filled in with information to manually generate a data package and related [metadata][#metadata]</li>
+  <li>Create a <a href="#workflow">workflow</a> to document the steps and commands to reproduce the dataset from the raw data</li>
+  <li>Incorporate a <a href="#version-control">version control</a> system such as <a href="https://git-scm.com/">Git</a></li>
+</ul>
+
+<h3 id="storing-and-sharing">Storing and Sharing</h3>
+
+<p>Data need to be stored on a safe platform, and possibly in a way that can be shared across collaborators and retrieved by the interested audiences.
+There exist several options to publish data online, either on online open data repositories, which provide open access and the possibility to retrieve the data easily, or on private cloud services (e.g. Microsoft Teams, Google Drive, Dropbox), which provide selected access to the files.
+In the case of personal or confidential data, dedicated private network drives might be recommended instead, as the provide limited access to the data and are not retrievable online.
+Your institution may be able to support the storage of sensitive data.</p>
+
+<p>Data files can consist of a wide range of file formats:</p>
+
+<ul>
+  <li>comma-separated values (<code class="language-plaintext highlighter-rouge">.csv</code>) files</li>
+  <li>text (<code class="language-plaintext highlighter-rouge">.txt</code>) files</li>
+  <li>image (<code class="language-plaintext highlighter-rouge">.jpeg</code>, <code class="language-plaintext highlighter-rouge">.png</code>, <code class="language-plaintext highlighter-rouge">.bmp</code>, <code class="language-plaintext highlighter-rouge">.tiff</code> etc.) files.</li>
+</ul>
+
+<p>To support the reusability of data across research projects, contexts, and applications,
+it is important that data file formats are not software specific.
+Where possible, adopt <a href="https://en.wikipedia.org/wiki/List_of_open_formats">open formats</a> to avoid the need for
+proprietary software to open the data file in the future.</p>
+
+<h3 id="releasing">Releasing</h3>
+
+<p>Once a new dataset or data package has been developed, it can be released and published online,
+and a related Digital Object Identifier (DOI) can be generated.
+This facilitates other people in citing and making use of it as a new resource
+or to verify and reproduce existing research that already made use of the dataset.
+In summary, releasing data, makes the data findable and accessible so that research can be reproduced.</p>
+
+<p>For more information, see <a href="#release">release</a></p>
+
+<h2 id="related-practices">Related Practices</h2>
+
+<p>You may be interested in the following good practices linked to management of data research outputs.</p>
+
+<h3 id="metadata">Metadata</h3>
+
+<p>Metadata describe a dataset and provide a basic set of information
+to support the retrievability of data and ensure their correct citation.</p>
+
+<p>Metadata for data packages or datasets must include information about the following:</p>
+
+<ul>
+  <li><a href="#attribution">Attributions</a> describes  who are the contributors to the dataset and their roles</li>
+  <li><a href="#licensing">Licensing</a> clarifying under what conditions the data can be used, modified or shared</li>
+</ul>
+
+<p>In addition, metadata should also include the following:</p>
+<ul>
+  <li><a href="#referencing">Referencing</a> to source material, to provide information regarding where the data come from.</li>
+  <li>Other relevant information, which might describe the methodology used for collecting the data, or the data format provided, or additional documentation that might be considered relevant to understand the data and their potential use.</li>
+</ul>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/13/metadata.html">Metadata practice</a></p>
+
+<h3 id="referencing">Referencing</h3>
+
+<p>Original data sources must be properly documented and cited.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/18/referencing.html">Referencing practice</a></p>
+
+<h3 id="attribution">Attribution</h3>
+
+<p>All contributors i.e. people involved in collecting, processing, structuring and releasing the data - must be acknowledged.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/02/01/attribution.html">Attribution practice</a></p>
+
+<h3 id="release">Release</h3>
+
+<p>Releases can be created as soon a version of the data is intended for use for a specific application or as project output.
+Releases of data should be provided with a Digital Object Identifier (DOI)
+and a complete metadata file.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/01/01/release.html">Release practice</a></p>
+
+<h3 id="licensing">Licensing</h3>
+
+<p>Data must always be associated with a license to clarify what are the legal restrictions (if any) in using,
+sharing and/or modifying the data.
+All licenses that apply to the original data sources should also be considered when selecting the license
+for the derived dataset released or shared as research output.
+This is to make sure the derived work complies with any potential legal restriction imposed
+on the original data sources.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/01/licensing.html">Licensing practice</a></p>
+
+<h3 id="version-control">Version control</h3>
+
+<p>Version control systems keep track of changes and modifications to data, data formats, data structure and any
+code used in processing the data.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2021/01/01/version-control.html">Version Control practice</a></p>
+
+<h3 id="workflow">Workflow</h3>
+
+<p>Workflows help with executing, reusing and reproducing, as well as reporting all steps needed to characterise the processing of data, thus supporting the use of data in the research context.</p>
+
+<p>For more information, see the <a href="/guidelines/practice/2022/03/18/workflow.html">Workflow practice</a></p>
+
+<h1 id="useful-resources">Useful resources</h1>
+
+<ul>
+  <li><a href="https://the-turing-way.netlify.app/reproducible-research/rdm.html"><strong>Research Data Management</strong></a> section, from <a href="https://the-turing-way.netlify.app/welcome.html"><em>The Turing Way</em></a> handbook to reproducible, ethical and collaborative data science.</li>
+  <li><a href="https://forum.u4ria.org/t/data-standards-for-energy-modeling-for-policy-support/25"><strong>Data standards for energy modelling for policy support</strong></a> entry, from the <a href="https://forum.u4ria.org/"><em>u4RIA Modelling for Policy Support</em></a> forum.</li>
+</ul>]]></content><author><name>Agnese Beltramo</name></author><category term="output" /><summary type="html"><![CDATA[Data can assume a wide range of types, including numerical data, text, audio and images, and form a fundamental resource for many research projects. Data are also a valuable research output in their own right, given the time taken in many research projects to find, collate and curate data.]]></summary></entry></feed>
