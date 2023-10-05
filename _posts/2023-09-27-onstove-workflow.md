@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developing a s cientific workflow, the case of OnStove
+title: Developing a scientific workflow, the case of OnStove
 date: 2023-09-27
 author: Camilo Ramirez
 category: output
@@ -28,18 +28,18 @@ achieved benefits minus all the incurred costs of transitioning to a cleaner coo
 
 OnStove is written in an open-source programming language (Python) with 
 thorough use of version control, and published in Github under an open license. It 
-uses automated workflows that are runned using [Snakemake](https://snakemake.readthedocs.io/en/stable/). 
+uses automated workflows that are run using [Snakemake](https://snakemake.readthedocs.io/en/stable/). 
 It is thoroughly documented with automated documentation generated using Sphinx and 
 published openly in [Read The Docs](https://about.readthedocs.com/?ref=readthedocs.com). 
 Moreover, it uses automated unitary tests that enhance the software's stability and 
 allow for more robust collaboration. 
 
 To date, the tool has been launched in a [major publication][1] for sub-Saharan Africa published in
-the Nature Sustainability journal. Moreover, several publications are forthcomming analysing 
+the Nature Sustainability journal. Moreover, several publications are forthcoming analysing 
 clean cooking transitions in Nepal and Kenya.
 
 ## The automated workflow structure <a name="workflow"></a>
-To make our research trully reproducible, we implement automated workflows. This workflows are used 
+To make our research truly reproducible, we implement automated workflows. This workflows are used 
 to automate and make clear in which order all computational processes are run. This process covers 
 steps from reading and processing of raw data, to final production and visualization of results. 
 
@@ -90,7 +90,7 @@ rule all:
                restriction=RESTRICTION)
 ```
 
-Then we need to create all intermediate rules required to go from raw data procesing until 
+Then we need to create all intermediate rules required to go from raw data processing until 
 generating the desired final output files. 
 
 ### The `process_data` rule <a name="process_data"></a>
@@ -103,7 +103,7 @@ Each dataset is then specified as an individual input for the rule.
 
 Note that, somethimes we use 
 [wildcards](https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html) 
-when deffining the path of a dataset. This is done to generalize one rule to different 
+when defining the path of a dataset. This is done to generalize one rule to different 
 input datasets. Take the case of the `population` input in the `process_data` rule for example, 
 it contains the wildcard `{country}` in its path. From this, Snakemake can then infer which are 
 the countries that need to be run based on the amount of `population` datasets found in the 
@@ -112,9 +112,9 @@ the countries that need to be run based on the amount of `population` datasets f
 After the ``input`` we define any parameter needed for the analysis 
 in the ``params`` section. These are parameters that can be used within the defined 
 ``script``.  Next, we define the expected ``output`` files after the rule was run. 
-Snakemake will use these information to check that the rule was run succesfully and 
+Snakemake will use these information to check that the rule was run successfully and 
 track that the output files are up-to-date. Finally, we specify in the ``script`` section, 
-a python script that should be run in order to perform the desired data procesing and 
+a python script that should be run in order to perform the desired data processing and 
 processing the ``output`` files.
 
 ```python
@@ -165,7 +165,7 @@ rule process_data:
 
 ### The `prepare_model` rule <a name="prepare_model"></a>
 After all raw data has been processed, then we can crate and calibrate our OnStove model. We 
-define the ``prepare_model`` rule for this. This rule reads in the raw data procesed in the 
+define the ``prepare_model`` rule for this. This rule reads in the raw data processed in the 
 ``process_data`` rule, plus additional techno-economic information of the study area. Then 
 it runs the ``model_preparation.py`` script to create and calibrate the model. The ``output`` 
 of this script is a ``model.pkl`` file containing all the information of our model.
@@ -242,7 +242,7 @@ rule merge_results:
          "scripts/merge_results.py" 
 ```
 
-After this workflow has completed succesfully, then we run another workflow that generates all the
+After this workflow has completed successfully, then we run another workflow that generates all the
 results visualizations. We will not cover that script in here but it is available in our 
 [GitHub repository](https://github.com/Open-Source-Spatial-Clean-Cooking-Tool/OnStove).
 
@@ -254,7 +254,8 @@ this optimizes workflow efficiency by leveraging available CPU cores and RAM res
 
 In summary, this workflow not only streamlines the entire process of assessing clean cooking 
 solutions but also ensures reproducibility, scalability, and ease of collaboration. By integrating 
-Snakemake and OnStove, we can analyze and visualize the impact of clean cooking transitions 
+Snakemake and OnStove, we can analyse and visualize the impact of clean cooking transitions 
 across sub-Saharan Africa efficiently and comprehensively.
 
 [1]: https://doi.org/10.1038/s41893-022-01039-8 "Khavari, B., Ramirez, C., Jeuland, M., & Fuso Nerini, F. (2023). A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa. Nature Sustainability. https://doi.org/10.1038/s41893-022-01039-8."
+
