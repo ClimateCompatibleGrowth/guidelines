@@ -6,7 +6,7 @@ author: Camilo Ramirez
 category: output
 ---
 
-In this post, I will describe how an [Snakemake](https://snakemake.readthedocs.io/en/stable/) 
+In this post, I will describe how a [Snakemake](https://snakemake.readthedocs.io/en/stable/) 
 automated workflow is applied to the open-source spatial clean cooking tool 
 [OnStove](https://github.com/Open-Source-Spatial-Clean-Cooking-Tool/OnStove). 
 
@@ -22,7 +22,7 @@ automated workflow is applied to the open-source spatial clean cooking tool
 ## What is the OnStove tool? <a name="onstove"></a>
 <img src="{{site.baseurl}}/assets/img/OnStoveLogo.svg" alt="OnStove logo" width="200"/>
 
-OnStove is a geospatial modelling tool that allows to determine the net-benefit of different 
+OnStove is a geospatial modelling tool that allows users to determine the net-benefit of different 
 cooking stoves relative to a stated baseline. Net-benefit, in this case, is defined as all the 
 achieved benefits minus all the incurred costs of transitioning to a cleaner cooking option.
 
@@ -39,7 +39,7 @@ the Nature Sustainability journal. Moreover, several publications are forthcomin
 clean cooking transitions in Nepal and Kenya.
 
 ## The automated workflow structure <a name="workflow"></a>
-To make our research truly reproducible, we implement automated workflows. This workflows are used 
+To make our research truly reproducible, we implement automated workflows. These workflows are used 
 to automate and make clear in which order all computational processes are run. This process covers 
 steps from reading and processing of raw data, to final production and visualization of results. 
 
@@ -95,7 +95,7 @@ generating the desired final output files.
 
 ### The `process_data` rule <a name="process_data"></a>
 The first rule we need is a ``process_data`` one, 
-where we read an process a set of geospatial datasets. All this datasets should already be 
+where we read and process a set of geospatial datasets. All this datasets should already be 
 downloaded into the system and organized in the specified folder structure. In the 
 [documentation](https://onstove-documentation.readthedocs.io/en/latest/?badge=latest) of 
 the model we provide links to the raw data sources and information on how to use them. 
