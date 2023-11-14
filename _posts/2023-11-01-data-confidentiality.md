@@ -3,11 +3,14 @@ layout: post
 title: Data Confidentiality in Open Science
 date: 2023-11-01
 author: Konstantinos Rigas
-category: practice
-tags: reusability
+category: knowledge
+tags: data
 ---
 
-# INTRODUCTION
+Researchers often encounter challenges when dealing with data obtained from industries that cannot be openly shared in repositories. 
+In this post, Konstantinos Rigas shares some of his solutions to dealing with confidential data in research.
+
+# Introduction
 
 Open science represents a groundbreaking approach to research, emphasizing transparency, collaboration, and the sharing of knowledge, data, and methodologies within 
 the scientific community. [1] A central pillar of open science is the availability of research data. Nonetheless, ensuring data confidentiality within the framework of 
@@ -19,7 +22,7 @@ understanding of complex issues. Open data encourages wider participation in sci
 scientific discoveries, ultimately nurturing trust in the scientific process. This article delves into the significance of data sharing in open repositories, the obstacles
 faced by researchers when industrial data cannot be openly disclosed, and proposes potential solutions to effectively navigate these data confidentiality issues.
 
-# PROBLEM IDENTIFICATION
+# Problem Identification
 
 Despite the manifold advantages of open science, researchers often encounter challenges when dealing with data obtained from industries that cannot be openly shared 
 in repositories. Industries have legitimate concerns about preserving their proprietary data, trade secrets, and competitive advantages. Researchers find themselves 
@@ -29,7 +32,7 @@ Collaborative projects involving academia and industry can lead to disputes over
 the outset to preempt conflicts. Additionally, certain data may contain sensitive personal information or details that could be detrimental if disclosed, necessitating 
 the development of methods to protect such data while upholding open science principles.
 
-# PROPOSED SOLUTIONS
+# Proposed Solutions
 
 1. Addressing these challenges surrounding data confidentiality in open science is imperative. Researchers should establish comprehensive data-sharing agreements with 
 industry partners at the project's inception, explicitly defining data ownership, the extent of data sharing, and the conditions under which data can be made publicly 
@@ -41,7 +44,7 @@ to embrace more open data sharing practices can lead to increased collaboration 
 4. In certain cases, trusted third-party organizations can act as intermediaries, managing industry data in a manner that ensures compliance with confidentiality
 agreements while enabling as much open data sharing as possible.
 
-# CONCLUSION
+# Conclusions
 
 Data confidentiality is a crucial consideration within the realm of open science. While open data sharing is a fundamental principle for advancing scientific knowledge, 
 it is equally important for researchers to respect the confidentiality requirements of industries and data owners. By establishing clear agreements, employing data 
