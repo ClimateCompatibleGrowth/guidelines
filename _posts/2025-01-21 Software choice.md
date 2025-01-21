@@ -9,12 +9,21 @@ tags: repeatability reusability auditability
 
 How do I choose the right software for my research project?
 
-
+I, as many others before me, have run into the problem of choosing the appropriate software for my project. In the project description for my PhD thesis, Aspen Plus was listed as the modelling tool to be used and my supervisors and collegues all use Aspen Plus. But Aspen Plus is not an open software and a license is very expensive. Hence, I am currently in the position where I have to carfeully think through which software is the most appropriate for me. I have to weigh the advantages and disadvanatges of using a proprietary software against an open software. 
 
 ## Advantages of using Aspen Plus
+- Knowledge and support available from supervisor and collegues
+- My own existing knowledge: I don't have to completely learn a new coding language
+- Often used in industry
+    - Valuable knowledge to have for me (on my CV)
+- My research field often (a majorityo of the time?) use Aspen Plus
 
 
 ## Disadvantages to using Aspen Plus
+- Not an open software
+- Expensive license
+- What if I want to use parts of my project after I am done with my PhD?
+- 
 
 ## Discussion
 
