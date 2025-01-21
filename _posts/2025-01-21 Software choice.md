@@ -12,18 +12,39 @@ How do I choose the right software for my research project?
 I, as many others before me, have run into the problem of choosing the appropriate software for my project. In the project description for my PhD thesis, Aspen Plus was listed as the modelling tool to be used and my supervisors and collegues all use Aspen Plus. But Aspen Plus is not an open software and a license is very expensive. Hence, I am currently in the position where I have to carfeully think through which software is the most appropriate for me. I have to weigh the advantages and disadvanatges of using a proprietary software against an open software. 
 
 ## Advantages of using Aspen Plus
-- Knowledge and support available from supervisor and collegues
+- Knowledge and support available from supervisor and collegues. Also a broad user base online in many forums available to help me. 
 - My own existing knowledge: I don't have to completely learn a new coding language
 - Often used in industry
     - Valuable knowledge to have for me (on my CV)
-- My research field often (a majorityo of the time?) use Aspen Plus
+- My research field often (a majority of the time?) use Aspen Plus
+- Wide range of applications
+- A lot of documentation, help, etc available for users
+- COCO instead of Aspen: 
+    - much smaller property data bank. It is hard work to enter and properly define components
+    - not as powerful, some processes will not be modelled (https://chemicalengineeringguy.com/the-blog/process-simulation/free-alternatives-to-aspen-plus-hysys/)
+    - Advanced users required (https://chemicalengineeringguy.com/the-blog/process-simulation/free-alternatives-to-aspen-plus-hysys/)
+- DWSIM instead of Aspen:
+    - not as powerful, no support center, 
+
+From this source: (https://chemicalengineeringguy.com/the-blog/process-simulation/what-is-aspen-plus/) 
+- "Aspen Plus (AP for short) is the leading Chemical Process Simulator in the market (or at least in the Chemical Engineering World)" (https://chemicalengineeringguy.com/the-blog/process-simulation/what-is-aspen-plus/) 
+    - "One of the best advantages is that Aspen Plus has already an existing data base of of species and their pure/binary regressed parameters. It can also handle very complex processes "
+- A good and intuative interface
+
 
 
 ## Disadvantages to using Aspen Plus
-- Not an open software
-- Expensive license
+- Not an open software - harder for others to reuse my findings
+- Expensive license: Unfortunately, the cost of a single license varies from 30K to more than 100K depending on the industry and market (https://chemicalengineeringguy.com/the-blog/process-simulation/what-is-aspen-plus/) 
 - What if I want to use parts of my project after I am done with my PhD?
-- 
+- Can I use version control with Aspen?
+- Possible other open software: COCO and DWSIM
+- COCO
+    - Free, friendly userface, has pleny of pre-existing unit operations and simulations available (https://chemicalengineeringguy.com/the-blog/process-simulation/free-alternatives-to-aspen-plus-hysys/)
+- DWSIM
+    - open source, free, may integrate python scrips, Sensitivity Analysis & Optimizers! (https://chemicalengineeringguy.com/the-blog/process-simulation/free-alternatives-to-aspen-plus-hysys/)
+
+
 
 ## Discussion
 
