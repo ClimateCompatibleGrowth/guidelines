@@ -7,9 +7,9 @@ category: practice
 tags: repeatability reusability 
 ---
 
-How do I choose the right software for my research project?
+How do I choose the right software for my upcoming research project? This is a question that I, like many others before me, had to ask today. In the project description for my PhD thesis, Aspen Plus was listed as the modeling tool to use and my supervisors and colleagues all use Aspen Plus. But Aspen Plus is not an open access software and an Aspen Plus license is very expensive. Hence, I am currently in the position where I have to carefully think through which software is the most appropriate for my project. I have to weigh the advantages and disadvantages of using commercial or open software.
 
-I, as many others before me, have run into the problem of choosing the appropriate software for my upcoming research project. In the project description for my PhD thesis, Aspen Plus was listed as the modelling tool to be used and my supervisors and collegues all use Aspen Plus. But Aspen Plus is not an open software and an Aspen Plus license is very expensive. Hence, I am currently in the position where I have to carefully think through which software is the most appropriate for my project. I have to weigh the advantages and disadvanatges of using a commercial software against an open software.
+Aspen Plus is a process modeling tool used to build and simulate processes. As mentioned it is not an open software, but alternative open access tools exist, for example, DWSIM and COCO simulator. As I need to choose one of these softwares to use, I will discuss the advantages and disadvantages of using Aspen Plus and compare them to DWSIM and COCO simulator's advantages and disadvantages.   
 
 ## Advantages of using Aspen Plus
 - Knowledge and support available from supervisor and collegues. Also a broad user base online in many forums available to help me. 
@@ -31,8 +31,7 @@ From this source: (https://chemicalengineeringguy.com/the-blog/process-simulatio
     - "One of the best advantages is that Aspen Plus has already an existing data base of of species and their pure/binary regressed parameters. It can also handle very complex processes "
 - A good and intuative interface
 
-One of the biggest advantages of using Aspen Plus is the support available in my near vicinity, my supervisor and collegues all know Aspen Plus. Additionally, Aspen Plus provides extensive "Help" docummentation and since so many uses Aspen Plus, a lot of information, tutorials, and help can be found online. Furthermore, I already have a basic understanding for the software, making the time to learn the software shorter than if I would start from the beginning with a new software. 
-Another considerable advantage of Aspen Plus is its extensive property data bank, wide range of applications, and that it is the leading chemical process simulator on the market for chemical engineers. It is frequently used in industry and research, and therefore learning Aspen Plus may give me important knowledge for future jobs or research positions.   
+One of the biggest advantages of using Aspen Plus is the support available in my near vicinity, my supervisor and colleagues all know Aspen Plus. Additionally, Aspen Plus provides extensive "Help" documentation and since so many use Aspen Plus, a lot of information, tutorials, and help can be found online. Furthermore, I already have a basic understanding of the software, making the time to learn the software shorter than if I would start from the beginning with a new software. Another considerable advantage of Aspen Plus is its extensive property data bank, a wide range of applications, and the fact that it is the leading chemical process simulator on the market for chemical engineers. It is frequently used in industry and research, and therefore learning Aspen Plus may give me important knowledge for future jobs or research positions.   
 
 ## Disadvantages to using Aspen Plus
 - Not an open software - harder for others to reuse my findings
