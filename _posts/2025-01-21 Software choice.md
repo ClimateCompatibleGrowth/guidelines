@@ -12,20 +12,19 @@ How do I choose the right software for my upcoming research project? This is a q
 [Aspen Plus][4] is a process modeling tool used to build and simulate processes. As mentioned, it is not an open software, but alternative open access tools exist, for example, [DWSIM][5] and [COCO Simulator][6]. As I need to choose one of these software to use, I will discuss the advantages and disadvantages of using Aspen Plus and compare them to DWSIM and COCO Simulator's advantages and disadvantages.   
 
 ## Advantages of using Aspen Plus
-One of the biggest advantages of using Aspen Plus is the support available in my vicinity, my supervisor and colleagues all know Aspen Plus. Additionally, Aspen Plus provides extensive "Help" documentation and since so many uses Aspen Plus, a lot of information, tutorials, and help can be found online. Furthermore, I already have a basic understanding of the software, making the time to learn the software shorter than if I would start from the beginning with a new software. Another considerable advantage of Aspen Plus is its extensive property data bank ([Ortega, n.d.-b][8]) which makes modeling much faster and more accurate as finding accurate data about all chemicals used in a simulation can be tedious and sometimes even impossible. Furthermore, Aspen Plus supports a wide range of applications and is the leading chemical process simulator on the market for chemical engineers. It is frequently used in industry and research, hence, learning Aspen Plus may give me important knowledge for future jobs or research positions.   
+One of the biggest advantages of using Aspen Plus is the support available in my vicinity, my supervisor and colleagues all know Aspen Plus. Additionally, Aspen Plus provides extensive "Help" documentation and since so many uses Aspen Plus, a lot of information, tutorials, and help can be found online. Furthermore, I already have a basic understanding of the software, making the time to learn the software shorter than if I would start from the beginning with a new software. Another considerable advantage of Aspen Plus is its extensive property data bank ([Ortega, n.d.-b][8]) which makes modeling much faster and more accurate as finding accurate data about all chemicals used in a simulation can be tedious and sometimes almost impossible. Furthermore, Aspen Plus supports a wide range of applications and is the leading chemical process simulator on the market for chemical engineers. It is frequently used in industry and research, hence, learning Aspen Plus may give me important knowledge for future jobs or research positions.   
 
-Both COCO simulator and DWSIM are not as powerful as Aspen Plus and has no support center ([Ortega, n.d.-a][7]). Furthermore,  COCO Simulator requires advanced users ([Ortega, n.d.-a][7]). 
+Both COCO simulator and DWSIM are not as powerful as Aspen Plus and has no support center ([Ortega, n.d.-a][7]). Furthermore, COCO Simulator requires advanced users ([Ortega, n.d.-a][7]). 
 
-## Disadvantages to using Aspen Plus
-The biggest disadvantages with using Aspen Plus are the fact that it isn't an open access software and has a very expensive license. This makes it harder for me and others to reuse and build upon my work. Moreover, it is not possible to use version control with Aspen Plus, reducing my research potential to follow the CCG [Good Enough Practices][9] for open science. As mentioned, COC Simulator and DWSIM are open access alternatives for Aspen Plus. Their openness and interoperability are their largest advantages over Aspen Plus. COCO Simulator has a user-friendly interface and plenty of unit operations already in place. DWSIM can be integrated with python and contains optimizers and sensitivity analysis tools. 
+## Disadvantages of using Aspen Plus
+The biggest disadvantages with using Aspen Plus are the fact that it isn't an open access software and has a very expensive license. This makes it harder for me and others to reuse and build upon my work. Moreover, it is not possible to use version control with Aspen Plus, reducing my research potential to follow the CCG [Good Enough Practices][9] for open science. As mentioned, COCO Simulator and DWSIM are open access alternatives for Aspen Plus. Their openness and interoperability are their largest advantages over Aspen Plus. COCO Simulator has a user-friendly interface and plenty of unit operations already in place. DWSIM can be integrated with python and contains optimizers and sensitivity analysis tools. 
 
-## Discussion
+## Discussion and Conclusion
+When looking at the advantages and disadvantages, it seems clear to me that using Aspen Plus is the clear choice. The support from colleagues, the help documentation, and online, as well as Aspen Plus's extensive properties database really tips the scale towards Aspen Plus. While COCO Simulator and DWSIM have the big advantages of openness, one must consider if the extra time requirement for making the research further open is worth it. Furthermore, everything except openness and interoperability that COCO Simulator and DWSIM brings, Aspen Plus does better. Hence, I unfortunately don't think it is worth it to use an open software instead of Aspen Plus this time.   
 
 
-Everything beneath: delete?
+
 ## Useful resources
-?
-
 
  ([Gobel et al (2020)][1])
 
