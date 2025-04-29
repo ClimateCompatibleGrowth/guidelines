@@ -4,6 +4,7 @@ title: Developing a scientific workflow, the case of OnStove
 date: 2023-09-27
 author: Camilo Ramirez
 category: knowledge
+tags:
 ---
 
 In this post, I will describe how a [Snakemake](https://snakemake.readthedocs.io/en/stable/)

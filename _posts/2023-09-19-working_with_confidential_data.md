@@ -4,7 +4,7 @@ title:  "Working with Confidential Data"
 date:   2023-09-19 13:30:00 +0200
 author: Shravan Kumar
 category: knowledge
-tags:
+tags: data
 ---
 
 ## Working with confidential data
