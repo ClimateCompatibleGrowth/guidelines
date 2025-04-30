@@ -26,10 +26,15 @@ Energy modelling's complexity often leads to several common mistakes that dimini
 # Conclusions
 
 The reproducibility attempt reveals that while the energy model repository demonstrates some level of reproducibility, it requires several enhancements to improve further. Key aspects needing attention include:
+
 **Detailed Documentation:** Providing comprehensive setup instructions for Windows Subsystem for Linux (WSL) and Docker to ensure users can create a consistent and isolated environment.
+
 **Modularization of Code:** Reorganizing the code into modular components to allow users to upgrade specific parts easily and to package reusable functions as installable modules.
+
 **Standardizing Directory Structure:** Ensuring a consistent directory structure to minimize confusion and improve workflow clarity.
+
 **Enhanced Workflow Illustration:** Offering both high-level and script-level overviews of the workflow to aid user understanding and execution.
+
 **Community Outreach and Documentation:** Extending documentation on applying and modifying the model for various regions to promote community engagement and collaborative improvements.
 
 [1]: <https://github.com/EmiFej/DRB-OSeMOSYS-model.git>
