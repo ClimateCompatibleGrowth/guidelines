@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Blog post
+title: Setting up a reproducible and reusable workflow using GitHub
 date: 2024-12-04
 author: Emir Fejzić
 category: knowledge
-tags: reusability
+tags: reusability reproducibility
 ---
 
 Setting up a reproducible and reusable workflow using GitHub after creating an energy model and publishing an article makes it challenging to understand how others, unfamiliar with your model, perceive the repository's reproducibility.
